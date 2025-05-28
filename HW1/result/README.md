@@ -13,7 +13,7 @@ This repository presents a strong baseline for the task.
 
 ## Inspection tools and methods
 
-Evaluation is based on comparisons using Gemini 2.5 Flash.Follow Compare by gemini 2.5 Flash
+Evaluation is based on comparisons using Gemini 2.5 Flash.
 
 ### Prompt:
 
