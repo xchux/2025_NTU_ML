@@ -1,0 +1,22 @@
+{
+  "name": "ML2025 HW2 Dev Container",
+  "image": "ml2025_hw2:latest",
+  "workspaceFolder": "/workspace",
+  "runArgs": [
+    "--gpus=all"
+  ],
+  "mounts": [
+    "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached"
+  ],
+  "customizations":{
+    "vscode":{
+      "settings":{
+        "terminal.integrated.defaultProfile.linux": "bash"
+      },
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+      ]
+    }
+  },
+} 

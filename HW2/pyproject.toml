@@ -1,0 +1,20 @@
+[project]
+name = "hw2"
+version = "0.1.0"
+description = "2025 spring ML"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dataclasses_json==0.6.4",
+    "shutup==0.2.0",
+    "gdown==5.2.0",
+    "notebook==7.4.3",
+    "rich==14.0.0",
+    "humanize==4.12.3",
+    "pydantic==2.11.5",
+    "pandas==2.3.0",
+    "torch==2.7.1",
+    "scikit-learn==1.7.0",
+    "numpy==2.3.0",
+    "ipywidgets==8.1.7",
+]
