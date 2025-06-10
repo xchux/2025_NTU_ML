@@ -9,7 +9,7 @@ This project is a Machine Learning homework assignment (ML2025Spring_hw2_public)
 ├── best_solution.py                   # Best solution script (auto-generated)
 ├── good_solution_*.py                 # Other good solution scripts
 ├── submission.csv                     # Output predictions for submission
-├── ML2025Spring-hw2-public/           # !!! Please download from google drive !!!
+├── ML2025Spring-hw2-public/           # ‼️ Please download from google drive ‼️
 │   ├── train.csv                      # Training data
 │   ├── test.csv                       # Test data
 │   └── sample_submission.csv          # Submission format example
@@ -52,16 +52,18 @@ python best_solution.py
 
 ## LLM Model Files
 - Large LLM model files (e.g., `Meta-Llama-3.1-8B-Instruct-Q8_0.gguf`) are used for agent-driven code generation and improvement.
-- When using deepseek-coder-6.7b-instruct.Q5_0.gguf had encountered blank `best_solution.py` and complete `submission.csv`
+- When using `deepseek-coder-6.7b-instruct.Q5_0.gguf` had encountered blank `best_solution.py` and complete `submission.csv`
+- When using `qwen2.5-coder-7b-instruct-q8_0.gguf` beware of docker resource. In mine experience at least 10 GB RAM and high performance disk.
 
 ## Notes
 - All dependencies are listed in `requirements.txt` and `pyproject.toml`.
 - The Dockerfile ensures a consistent, GPU-enabled environment for reproducibility.
 - For best results, use the provided Docker setup or match the Python and package versions exactly.
-- !!! It is still difficult to obtain reproducible and stable results. !!!
+- ‼️It is still difficult to obtain reproducible and stable results. ‼️
 
 ## Best result
 Private Score: 0.94748
+
 Public score: 1.01036
 
 ## Contact
