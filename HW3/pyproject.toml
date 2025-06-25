@@ -1,0 +1,20 @@
+[project]
+name = "hw3"
+version = "0.1.0"
+description = "2025 spring ML"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "transformers==4.47.0",
+    "torch",
+    "torchvision",
+    "torchaudio",
+    "matplotlib",
+    "seaborn",
+    "tqdm",
+    "nltk",
+    "scikit-learn",
+    "huggingface_hub",
+    "sae-lens",
+    "ipython"
+]
