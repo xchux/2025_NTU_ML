@@ -30,7 +30,9 @@ This assignment focuses on pretraining a transformer decoder-only architecture f
 
 ## Result
 ‼️Because it is not an official verification tool, the score may be slightly inaccurate.‼️
+
 FID:  76.22972546960304
+
 PDR (Accuracy) score: 0.9625
 
 Clsoe to Strong baseline❗
