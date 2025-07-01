@@ -35,4 +35,4 @@ FID:  76.22972546960304
 
 PDR (Accuracy) score: 0.9625
 
-Clsoe to Strong baseline❗
+Close to Strong baseline❗
