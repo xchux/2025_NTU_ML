@@ -1,16 +1,8 @@
-# Ignore all files in HW directories except .ipynb files
-HW*/
-!HW*/*.ipynb
-!HW*/README.md
-
 # Ignore large model files
 *.gguf
 *.bin
 *.safetensors
 
-# Ignore dataset files
-*.txt
-!README.md
 
 # Ignore Python cache
 __pycache__/
