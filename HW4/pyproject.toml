@@ -1,0 +1,18 @@
+[project]
+name = "hw4"
+version = "0.1.0"
+description = "2025 spring ML"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "torch",
+    "matplotlib",
+    "numpy",
+    "tqdm",
+    "transformers",
+    "datasets==3.3.2",
+    "pillow",
+    "typing-extensions",
+    "funcy",
+    "pytorch-fid"
+]
