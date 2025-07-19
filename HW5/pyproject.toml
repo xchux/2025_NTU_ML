@@ -1,0 +1,8 @@
+[project]
+name = "hw5"
+version = "0.1.0"
+description = "2025 spring ML"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+

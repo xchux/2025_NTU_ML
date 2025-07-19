@@ -1,0 +1,23 @@
+{
+  "name": "ML2025 HW5 Dev Container",
+  "image": "ml2025_hw5:latest",
+  "workspaceFolder": "/workspace",
+  "runArgs": [
+    "--gpus=all"
+  ],
+  "mounts": [
+    "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached"
+  ],
+  "customizations":{
+    "vscode":{
+      "settings":{
+        "terminal.integrated.defaultProfile.linux": "bash"
+      },
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+      ]
+    }
+  },
+  // "postCreateCommand": "pip install --root-user-action=ignore --upgrade pip && pip install --root-user-action=ignore ."
+} 
