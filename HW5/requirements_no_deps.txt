@@ -1,0 +1,7 @@
+bitsandbytes
+accelerate
+xformers==0.0.29
+peft
+trl
+triton
+cut_cross_entropy

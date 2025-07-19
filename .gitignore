@@ -23,6 +23,7 @@ Thumbs.db
 
 # Ignore IDE files
 .vscode/
+.devcontainer/
 .idea/
 *.swp
 *.swo
