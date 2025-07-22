@@ -36,24 +36,43 @@ Could you continue and name yet another color from the rainbow?<end_of_turn>
 
 
 ## Problem 3
+
 Fill-in-the-blank Questions: (2 * 0.1 pt + 2 * 0.15 pt) You need to write the corresponding token / token index.
+
 Token: I, token index: 235285
+
 Token: ▁ love, token index: 2182
+
 Token: ▁ taking, token index: 4998
+
 Token: ▁ a, token index: 476
+
 Token: ▁ Machine, token index: 13403
+
 Token: ▁ Learning, token index: 14715
+
 Token: ▁ course, token index: 3205
+
 Token: ▁ by, token index: 731
+
 Token: ▁ Professor, token index: 11325
+
 Token: ▁ Hung, token index: [ (1) ]
+
 Token: [ (2) ] , token index: 235290
+
 Token: [ (3) ] , token index: [ (4) ]
+
 Token: ▁ Lee, token index: 9201
+
 Token: ,, token index: 235269
+
 Token: ▁ What, token index: 2439
+
 Token: ▁ about, token index: 1105
+
 Token: you, token index: 692
+
 Token: ?, token index: 23533
 
 ## Ans
