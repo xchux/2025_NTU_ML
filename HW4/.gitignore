@@ -1,0 +1,4 @@
+reconstructed/
+validation/
+checkpoints/
+pokemon_classifier.pth
