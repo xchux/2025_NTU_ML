@@ -1,6 +1,6 @@
 {
   "name": "ML2025 HW2 Dev Container",
-  "image": "ml2025_hw2:latest",
+  "image": "ml2025_hw3:latest",
   "workspaceFolder": "/workspace",
   "runArgs": [
     "--gpus=all"
@@ -19,4 +19,5 @@
       ]
     }
   },
+  // "postCreateCommand": "pip install --root-user-action=ignore --upgrade pip && pip install --root-user-action=ignore ."
 } 
