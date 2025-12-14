@@ -1,0 +1,15 @@
+[project]
+name = "hw7"
+version = "0.1.0"
+description = "2025 spring ML - HW7 DPO Training"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "torch",
+    "transformers",
+    "unsloth",
+    "vllm",
+    "unsloth_zoo",
+    "ipython",
+]
+
