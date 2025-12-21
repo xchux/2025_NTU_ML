@@ -1,0 +1,21 @@
+[project]
+name = "hw8"
+version = "0.1.0"
+description = "2025 spring ML - HW8 Model Editing"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "torch",
+    "transformers",
+    "datasets",
+    "numpy",
+    "gdown",
+    "python-dotenv",
+    "huggingface_hub[hf_xet]",
+    "hydra-core",
+    "higher",
+    "tqdm",
+    "ipython",
+    "ipykernel",
+]
+
