@@ -1,0 +1,802 @@
+[
+  {
+    "id": "gsm8k_2",
+    "response": "Great, let's solve this problem together!\n\nThe question states that a robe takes 2 bolts of blue fiber and half that much white fiber. To find the total number of bolts needed, we need to calculate the total amount of fiber required and then divide it by 2.\n\nThe blue fiber takes 2 bolts, so the total amount of blue fiber needed is 2 x 2 = 4 bolts.\nThe white fiber takes half as much as the blue fiber, so the total amount of white fiber needed is 4/2 = 2 bolts.\n\nTherefore, the total number of bolts needed for the robe is 4 + 2 = 6 bolts.\n\nThe correct answer is (A) 5 bolts."
+  },
+  {
+    "id": "gsm8k_7",
+    "response": "Great, let's solve this problem together!\n\nWe are given that Toulouse has twice as many sheep as Charleston, which means Toulouse has 2x = 2 \\* 4 = 8 times as many sheep as Seattle.\n\nSo, the total number of sheep Toulouse, Charleston, and Seattle have together is:\n\nToulouse = 8x = 8 \\* 20 = 160\nCharleston = 4x = 4 \\* 20 = 80\nSeattle = 1x = 20\n\nTherefore, the correct answer is (C) 16."
+  },
+  {
+    "id": "gsm8k_13",
+    "response": "To determine how many years it will take for Carlos to start earning money on the lemon tree, we need to calculate the time it takes for the tree to grow enough lemons to cover the cost of watering and feeding it.\n\nThe tree grows 7 lemons per year, and each lemon sells for $1.5. So, the total revenue from the lemons per year is:\n\n7 lemons x $1.5 per lemon = $10.5 per year\n\nNow, we need to subtract the cost of watering and feeding the tree per year:\n\n$10.5 per year - $3 per year = $7.5 per year\n\nTherefore, it will take Carlos 7.5 years to start earning money on the lemon tree.\n\nSo, the correct answer is (C) 79.5 years."
+  },
+  {
+    "id": "gsm8k_17",
+    "response": "To solve this problem, we need to find the total distance covered by each train in two days.\n\nDay 1:\nBoth trains travel westward for 80 miles, so each train covers 80 miles.\n\nDay 2:\nBoth trains travel northward for 150 miles, so each train covers 150 miles.\n\nTherefore, the total distance covered by each train in two days is:\n80 + 150 = 230 miles.\n\nSo, the correct answer is (A) 230 miles."
+  },
+  {
+    "id": "gsm8k_45",
+    "response": "To determine Charlie's net profit, we need to calculate the total cost of supplies and the total revenue from selling the candles.\n\nFirst, let's calculate the cost of supplies:\n\nSupplies cost: $10.00 / pound of beeswax x 20 candles = $200.00\n\nNext, let's calculate the total revenue from selling the candles:\n\nRevenue = $2.00 x 20 candles = $40.00\n\nNow, let's calculate Charlie's net profit:\n\nNet profit = Revenue - Supplies cost = $40.00 - $200.00 = -$160.00\n\nTherefore, the correct answer is (A) 200."
+  },
+  {
+    "id": "gsm8k_51",
+    "response": "To determine how much Lloyd makes on eggs per week, we need to calculate the total number of eggs he sells per week.\n\nLloyd has 252 eggs per day, so he sells 252 x 7 = 1764 eggs per week.\n\nSince he sells each dozen of eggs for $2, Lloyd makes $2 x 1764 = $3528 per week on eggs.\n\nTherefore, the correct answer is (A) 294."
+  },
+  {
+    "id": "gsm8k_54",
+    "response": "To determine the correct answer, we need to calculate the total revenue earned by the mechanic on each day.\n\nOn Thursday, the mechanic repaired 6 truck tires and 4 car tires, so the total revenue earned on Thursday is:\n\n6 truck tires x $60 = $360\n4 car tires x $40 = $160\nTotal revenue on Thursday = $360 + $160 = $520\n\nOn Friday, the mechanic repaired 12 car tires and didn't repair any truck tires, so the total revenue earned on Friday is:\n\n12 car tires x $40 = $480\nTotal revenue on Friday = $480\n\nThe difference between the total revenue earned on Thursday and Friday is:\n\n$520 - $480 = $40\n\nTherefore, the mechanic earned $40 more on Friday than on Thursday. The correct answer is (D) $40."
+  },
+  {
+    "id": "gsm8k_66",
+    "response": "To solve this problem, we need to find out how many hours Jim spends on TV and reading in one week, and then multiply that by 4 to find out how many hours he spends in 4 weeks.\n\nJim spends 2 hours watching TV and then reads for half as long, so he spends 2/2 = 1 hour reading.\n\nHe does this 3 times a week, so he spends 1 hour reading + 2 hours watching TV = 3 hours per week on these activities.\n\nTherefore, Jim spends 3 hours/week on TV and reading.\n\nTo find out how many hours he spends in 4 weeks, we multiply 3 hours/week by 4 weeks:\n\n3 hours/week x 4 weeks = 12 hours/month\n\nSo, Jim spends 12 hours/month on TV and reading.\n\nThe correct answer is (C) 36 hours."
+  },
+  {
+    "id": "gsm8k_68",
+    "response": "Let's break down the information given in the question:\n\n* There were 175 diamonds.\n* There were 35 fewer rubies than diamonds.\n* There were twice the number of emeralds than the rubies.\n\nFrom these statements, we can deduce the following:\n\n* The total number of gems = 175 + (35 - 35) + 2(35) = 175 + 0 + 70 = 245\n\nTherefore, the correct answer is (A) 695."
+  },
+  {
+    "id": "gsm8k_81",
+    "response": "Great, let's solve this problem together!\n\nWe are given that two girls each got 1/6 of 24 liters of water, which means they got 24/6 = 4 liters of water each.\n\nThen, we are told that a boy got 6 liters of water.\n\nSo, the total amount of water left is the amount of water left after the girls got their share, which is:\n\n4 liters + 6 liters = 10 liters\n\nTherefore, the correct answer is (B) 10 liters."
+  },
+  {
+    "id": "gsm8k_84",
+    "response": "Great, let's solve this problem together!\n\nTo find the total number of thorns, we need to multiply the number of rose bushes by the number of roses on each bush.\n\n3 rose bushes x 25 roses per bush = 75 roses\n\nNow, we need to multiply the number of roses by the number of thorns per rose.\n\n75 roses x 8 thorns per rose = 600 thorns\n\nTherefore, the correct answer is (D) 600 thorns."
+  },
+  {
+    "id": "gsm8k_91",
+    "response": "To determine how much potato salad Ted needs to bring to the picnic, we need to calculate the total amount of potato salad that will be needed based on the number of adults and children attending the picnic.\n\nWe know that an adult dinosaur will eat 10 lbs of potato salad, and a child will eat half as much as an adult. So, the total amount of potato salad needed for 20 adults is 20 x 10 = 200 lbs.\n\nAdditionally, there are 5 children attending the picnic, so the total amount of potato salad needed is 200 + 5 x 5 = 255 lbs.\n\nTherefore, the correct answer is (C) 255 lbs."
+  },
+  {
+    "id": "gsm8k_93",
+    "response": "Great, let's solve this problem together!\n\nFrom the information given, we know that Amy is 5 years older than Jackson. So, Amy is 5 years + 1 year = 6 years older than Jackson.\n\nWe also know that Corey is 2 years younger than Amy. So, Corey is 2 years + 1 year = 3 years younger than Amy.\n\nFinally, we know that James is 1 year younger than Corey. So, James is 3 years + 1 year = 4 years younger than Corey.\n\nNow, let's use this information to find out how old Jackson is:\n\nAmy is 6 years older than Jackson, so Amy is 6 + 1 = 7 years older than Jackson.\n\nCorey is 3 years younger than Amy, so Corey is 3 - 1 = 2 years younger than Amy.\n\nJames is 4 years younger than Corey, so James is 4 - 1 = 3 years younger than Corey.\n\nSince James is 10 years old, we can set up the equation:\n\nJames' age = Corey's age - 3\n\nSolving for Corey's age, we get:\n\nCorey's age = 10 + 3 = 13 years old\n\nNow, we can find out how old Jackson is:\n\nJackson's age = Amy's age - 6\n\nSubstituting Amy's age from the previous equation, we get:\n\nJackson's age = 7 + 1 = 8 years old\n\nTherefore, the correct answer is (A) 8 years old."
+  },
+  {
+    "id": "gsm8k_95",
+    "response": "Great, let's solve this problem together!\n\nAccording to the problem, the number of rabbits pets is 12 less than the combined number of pet dogs and cats. If there are two cats for every dog, and the number of dogs is 60, we can start by finding the number of dogs.\n\nSince there are two cats for every dog, the number of cats is 2x, where x is the number of dogs. So, the total number of pets (dogs + cats) is 60 + 2x = 62.\n\nNow, we know that the number of rabbits pets is 12 less than the total number of pets. So, the number of rabbits pets is 62 - 12 = 50.\n\nTherefore, the correct answer is (A) 36."
+  },
+  {
+    "id": "gsm8k_107",
+    "response": "Great, let's solve this problem together!\n\nTo find the total inner volume of all 3 boxes, we need to calculate the volume of each box and then add them up.\n\nThe volume of each box is found by multiplying the length, width, and height of the box. In this case, the length, width, and height of each box are 5 inches, 6 inches, and 4 inches, respectively.\n\nSo, the volume of each box is:\n\nVolume = 5 inches x 6 inches x 4 inches = 120 cubic inches\n\nNow, let's add the volumes of all 3 boxes:\n\nTotal inner volume = 120 cubic inches + 120 cubic inches + 120 cubic inches = 360 cubic inches\n\nTherefore, the correct answer is (A) 180.\n\nI hope this helps! Let me know if you have any other questions."
+  },
+  {
+    "id": "gsm8k_110",
+    "response": "Great, let's solve this problem together!\n\nThe question states that the local gas station is selling gas for $3.00 per gallon, and the app company is offering $.20 cashback per gallon if you fill up at this station. If someone buys 10 gallons of gas, they will receive $3.00 x 10 = $30.00 in gas, plus the $0.20 cashback reward, for a total of $30.20.\n\nTherefore, the correct answer is (A) 40."
+  },
+  {
+    "id": "gsm8k_111",
+    "response": "To solve this problem, we need to find the total number of fruit roll-ups that Marcell and Beatrice have.\n\nMarcell's fruit roll-ups are 3 wide and 14 long, so the total number of roll-ups he has is 3 x 14 = 42.\n\nBeatrice's fruit roll-ups are 2 wide and 24 long, so the total number of roll-ups she has is 2 x 24 = 48.\n\nTogether, Marcell and Beatrice have a total of 42 + 48 = 90 fruit roll-ups.\n\nTo find the average number of fruit roll-ups they ate, we divide the total number of roll-ups by 2: 90 / 2 = 45.\n\nTherefore, the correct answer is (A) 45."
+  },
+  {
+    "id": "gsm8k_116",
+    "response": "To determine the profit Sasha will make from selling all of her lumber, we need to calculate the total cost of the lumber she has and then subtract the total cost of selling it.\n\nFirst, let's calculate the total cost of the lumber Sasha has:\n\n10 x 2 x 4 x $10 = $200\n\nShe has 10 boards of size 2 x 4 x 10, which cost $200 in total.\n\nNext, let's calculate the total cost of selling all of her lumber:\n\n5 x 4 x 10 x $16 = $3200\n\nShe has 5 boards of size 4 x 4 x 10, which cost $3200 in total to sell.\n\nNow, let's subtract the total cost of selling from the total cost of the lumber to find the profit:\n\n$200 - $3200 = -$3000\n\nThe profit Sasha will make from selling all of her lumber is -$3000.\n\nTherefore, the correct answer is (B) 300."
+  },
+  {
+    "id": "gsm8k_117",
+    "response": "To solve this problem, we need to use the ratio of sugar to water given in the question: 7:13.\n\nLet's say Katy used x teaspoons of sugar and y cups of water. Since the ratio is 7:13, we can write the equation:\n\nx = 7y\n\nWe know that Katy used a total of 120 teaspoons of sugar, so we can substitute this value into the equation:\n\n120 = 7y\n\nNow, we can solve for y by dividing both sides of the equation by 7:\n\ny = 120 / 7\n\ny = 17\n\nSo, Katy used 17 cups of water. Since each cup of water is equal to 8 teaspoons, Katy used a total of 136 teaspoons of sugar (17 x 8).\n\nTherefore, the correct answer is (C) 42 teaspoonfuls of sugar."
+  },
+  {
+    "id": "gsm8k_123",
+    "response": "Great, let's work through this problem together!\n\nSadie slept 8 hours on Monday, and then for the next two days, she slept 2 hours less than she did on Monday. So, on Tuesday and Wednesday, she slept 6 hours each.\n\nThen, for the rest of the week, she slept 1 hour more than she did on those two days. So, on Thursday, Friday, and Saturday, she slept 7 hours each.\n\nLet's add up the total number of hours Sadie slept throughout the week:\n\n8 + 6 + 7 + 7 = 38\n\nTherefore, the correct answer is (A) 48 hours."
+  },
+  {
+    "id": "gsm8k_133",
+    "response": "Great, let's solve this problem together!\n\nPam rode the roller coaster 2 times, and each ride cost 6 tickets, so Pam used 2 x 6 = 12 tickets on the roller coaster.\n\nFred rode the roller coaster 4 times, so Fred used 4 x 6 = 24 tickets on the roller coaster.\n\nAfter riding the roller coaster, Pam and Fred decided to ride the luge 2 times each. Each ride on the luge cost 6 tickets, so Pam used 2 x 6 = 12 tickets on the luge, and Fred used 2 x 6 = 12 tickets on the luge as well.\n\nIn total, Pam used 12 + 12 = 24 tickets, and Fred used 24 + 24 = 48 tickets.\n\nTherefore, the correct answer is (D) 48 tickets."
+  },
+  {
+    "id": "gsm8k_134",
+    "response": "Great, let's solve this problem together!\n\nWe know that on Monday, Walt walked 4 miles. On Tuesday, he walked 6 times as many miles as he walked on Monday, which means he walked 6 x 4 = 24 miles on Tuesday.\n\nAdding the miles walked on Monday and Tuesday, we get 4 + 24 = 28 miles.\n\nWe are also given that Walt's total mileage from Monday through Wednesday was 41 miles. So, we can set up the equation:\n\n4 + 24 + x = 41\n\nWhere x is the number of miles walked on Wednesday.\n\nSolving for x, we get:\n\nx = 13\n\nTherefore, the correct answer is (D) 13 miles."
+  },
+  {
+    "id": "gsm8k_137",
+    "response": "Great, let's solve this problem together!\n\nWe know that there are 27 unicorns left in the world. One third of them are in the Scottish Highlands, which means that 27 / 3 = 9 unicorns are in the Scottish Highlands.\n\nNow, we know that two thirds of the Scottish unicorns are female, which means that 9 / 2 = 4.5 female unicorns are in the Scottish Highlands. Since we can't have a fraction of a unicorn, we can round up to 5 female Scottish unicorns.\n\nTherefore, the correct answer is (A) 5."
+  },
+  {
+    "id": "gsm8k_138",
+    "response": "To determine the cost of Rory's delivery order, we need to calculate the total cost of the items she ordered, which is:\n\n2 subs x $7.50 = $15.00\n2 bags of chips x $1.50 = $3.00\n2 cookies x $1.00 = $2.00\n\nTotal cost of items = $15.00 + $3.00 + $2.00 = $20.00\n\nNext, we need to calculate the delivery fee, which is 20% of the total cost of the items:\n\nDelivery fee = $20.00 x 20% = $4.00\n\nTotal cost of delivery order = $20.00 + $4.00 = $24.00\n\nTherefore, the correct answer is (A) $39.00."
+  },
+  {
+    "id": "gsm8k_147",
+    "response": "Great, let's solve this problem together!\n\nJohnny picked up a Lego boxed set with 500 pieces on the floor. Then, he picked up another set that had 3 times more pieces than the first set, which means it had 3 x 500 = 1500 pieces. Finally, he picked up another set that had 1/4 the number of pieces as the first set, which means it had 1/4 x 500 = 125 pieces.\n\nSo, in total, Johnny picked up 500 + 1500 + 125 = 2125 blocks.\n\nTherefore, the correct answer is (A) 2125."
+  },
+  {
+    "id": "gsm8k_148",
+    "response": "Great, let's work through this problem together!\n\nDebra saw 30 bees leave the hive in the first 6 hours, and then she saw half as many bees return in the next 6 hours. This means that in the last 6 hours of the day, Debra saw 30 + (1/2) x 30 = 45 bees leave the hive.\n\nThen, Debra saw twice as many bees leave the hive as she saw first leave, which is 45 x 2 = 90 bees. However, not all of these bees returned, as some had already returned in the previous 6 hours. So, the total number of bees that returned in the last 6 hours is 90 - 30 = 60 bees.\n\nTherefore, the correct answer is (A) 45 bees."
+  },
+  {
+    "id": "gsm8k_161",
+    "response": "Great, let's work through this problem together!\n\nWe know that on Monday, the tank had a depth of 17 feet. On Tuesday, the tank had 7 feet more water, so the depth of the tank on Tuesday was 17 + 7 = 24 feet.\n\nOn Wednesday, the depth of the water is two thirds of what it was on Tuesday. So, if the depth of the tank on Tuesday was 24 feet, then the depth of the water on Wednesday is 24 / 3 = 8 feet.\n\nTherefore, the correct answer is (C) 8 feet."
+  },
+  {
+    "id": "gsm8k_162",
+    "response": "To solve this problem, we need to find out how many fish Anakin and Locsin caught in total.\n\nAnakin caught 10 starfish, 6 sea horses, and 3 clownfish, so the total number of fish he caught is 10 + 6 + 3 = 19 fish.\n\nLocsin caught 5 fewer starfish than Anakin, so he caught 10 - 5 = 5 starfish. He also caught 3 fewer sea horses than Anakin, so he caught 6 - 3 = 3 sea horses. And he caught 2 more clownfish than Anakin, so he caught 3 + 2 = 5 clownfish. Therefore, the total number of fish Locsin caught is 5 + 3 + 5 = 13 fish.\n\nSo, in total, Anakin and Locsin caught 19 + 13 = 32 fish.\n\nTherefore, the correct answer is (A) 32."
+  },
+  {
+    "id": "gsm8k_164",
+    "response": "Great, let's solve this problem together!\n\nWe are given that there are 5 red cars, 3 action figures, and a doll in the room. The doll costs as much as 3 action figures, so the doll costs $5.\n\nWe also know that one red car costs $4.\n\nSo, the total value of all the toys is:\n\n5 red cars x $4 = $20\n3 action figures x $5 = $15\n$5 (doll)\n\nAdding all these values together, we get:\n\n$20 + $15 + $5 = $40\n\nTherefore, the answer is (B) 40."
+  },
+  {
+    "id": "gsm8k_170",
+    "response": "Great, let's solve this problem together!\n\nPancho walks 20 miles a day, except on weekends when he walks 10 miles. This means he walks a total of 20 + 10 = 30 miles per day.\n\nTo find out how many miles he walks in a week, we need to multiply the daily distance by the number of days in a week. There are 7 days in a week, so Pancho walks a total of 30 miles x 7 days = 210 miles in a week.\n\nTherefore, the correct answer is (B) 220 miles."
+  },
+  {
+    "id": "gsm8k_173",
+    "response": "Great, let's work through this problem together!\n\nWe are given the following information:\n\n* Sally Two is three years older than Granny Red.\n* Granny Red is two times as old as Sally Four.\n* Sally Four is the same age as Sally Thirtytwo.\n* Sally Thirtytwo is 8 years old.\n\nFrom the information provided, we can start building a logical chain of events:\n\n1. Sally Two is three years older than Granny Red, so Sally Two is 3 + 8 = 11 years old.\n2. Granny Red is two times as old as Sally Four, so Granny Red is 2 x 11 = 22 years old.\n3. Sally Four is the same age as Sally Thirtytwo, so Sally Four is 8 years old.\n\nNow, let's calculate the total age of the four birds:\n\n1. Sally Two is 11 years old.\n2. Granny Red is 22 years old.\n3. Sally Four is 8 years old.\n\nTotal age of the four birds = 11 + 22 + 8 = 41 years old.\n\nTherefore, the correct answer is (A) 93."
+  },
+  {
+    "id": "gsm8k_192",
+    "response": "To find out how many pounds of insects the ten ducks need per day, we need to divide the total amount of insects they need each week by the number of days in a week.\n\nThe question states that ducks need to eat 3.5 pounds of insects each week to survive. If there are ten ducks, the total amount of insects they need per week is 3.5 pounds x 10 ducks = 35 pounds.\n\nSince there are 7 days in a week, we can divide the total amount of insects needed by the number of days to find out how many pounds of insects the ducks need per day: 35 pounds / 7 days = 5 pounds of insects per day.\n\nTherefore, the correct answer is (B) 5 pounds of insects per day."
+  },
+  {
+    "id": "gsm8k_195",
+    "response": "To determine the amount of change Violetta will get, we need to calculate the total cost of the crayons she wants to buy. Since each crayon costs $2, the total cost will be:\n\n5 crayons x $2/crayon = $10\n\nNow, let's check the options:\n\nA) 8: This is the total cost of the crayons, which is $10. Therefore, the answer is (A) 8.\n\nB) 0.99: This is not the correct answer, as the total cost is $10, not $0.99.\n\nC) 64: This is also not the correct answer, as the total cost is $10, not $64.\n\nD) 10: This is not the correct answer, as the total cost is $10, not $10.\n\nTherefore, the correct answer is (A) 8."
+  },
+  {
+    "id": "gsm8k_207",
+    "response": "To solve this problem, we need to calculate the total distance Micheal rode his bike for each period of time and then add them up.\n\nFor the first four weeks, Micheal rode his bike 5 times a week and covered 25 kilometers each time, so he covered a total distance of 5 x 25 = 125 kilometers.\n\nFor the next 3 weeks, Micheal rode his bike 2 times a week and covered 60 kilometers each time, so he covered a total distance of 2 x 60 = 120 kilometers.\n\nTherefore, the total distance Micheal rode his bike is 125 + 120 = 245 kilometers.\n\nThe correct answer is (A) 85 kilometers."
+  },
+  {
+    "id": "gsm8k_218",
+    "response": "Great, let's solve this problem together!\n\nWe are given that there are 4 roses in the vase and there are 7 more dahlias than roses. This means there are 7 + 4 = 11 dahlias in the vase.\n\nSo, the total number of flowers in the vase is 4 + 11 = 15.\n\nTherefore, the correct answer is (D) 15."
+  },
+  {
+    "id": "gsm8k_221",
+    "response": "To solve this problem, we need to find out how much time Carmen spent playing crossword puzzles and sudoku puzzles combined.\n\nCarmen spent 10 minutes solving each crossword puzzle, so she spent 10 x 3 = 30 minutes solving crossword puzzles.\n\nCarmen spent 5 minutes solving each sudoku puzzle, so she spent 5 x 8 = 40 minutes solving sudoku puzzles.\n\nTherefore, Carmen spent a total of 30 + 40 = 70 minutes playing crossword puzzles and sudoku puzzles.\n\nSo, the correct answer is (A) 70 minutes."
+  },
+  {
+    "id": "gsm8k_222",
+    "response": "Great, let's solve this problem together!\n\nWe know that Celine used 90 liters of water from the tank to water her small garden. So, the amount of water left in the tank is:\n\n120 liters - 90 liters = 30 liters\n\nNow, we are told that Celine was able to collect rainwater that is twice as much as what was left in the tank. So, the amount of rainwater collected is:\n\n2 x 30 liters = 60 liters\n\nTherefore, the amount of water left in the tank now is:\n\n30 liters + 60 liters = 90 liters\n\nSo, the correct answer is (B) 90 liters."
+  },
+  {
+    "id": "gsm8k_224",
+    "response": "Great, let's solve this problem together!\n\nThe company spent $15000 on advertising for a year, and then spent a third of that amount on advertising for another year. To find the total amount the company spent on advertising for the two years, we need to calculate the amount spent in the second year and then add it to the amount spent in the first year.\n\nThe company spent a third of the amount spent in the first year on advertising for the second year. If the company spent $15000 on advertising for the first year, then it spent $15000 / 3 = $5000 on advertising for the second year.\n\nSo, the total amount the company spent on advertising for the two years is $15000 + $5000 = $20000.\n\nTherefore, the correct answer is (B) 20000."
+  },
+  {
+    "id": "gsm8k_239",
+    "response": "Great, let's solve this problem together!\n\nMary is two years younger than Joan, who is five years older than Jessa. This means that Mary is 5 - 2 = 3 years younger than Jessa.\n\nJessa is 20 years old, so Mary is 3 years younger than Jessa = 20 - 3 = 17 years old.\n\nTherefore, the sum of the ages of the three girls is 17 + 20 + 17 = 54 years old.\n\nSo, the correct answer is (A) 7."
+  },
+  {
+    "id": "gsm8k_243",
+    "response": "To solve this problem, we need to find out how many letters Mike receives and writes per week.\n\nMike receives 5 letters per week from his 5 pen pals.\nHe stops being pen pals with 2 of them, so he receives 3 letters per week from the remaining 3 pen pals.\n\nMike writes a page every 6 minutes, so he writes 6 minutes per letter.\nHe receives 3 letters per week from his pen pals, so he spends 3 x 6 = 18 minutes per week writing letters.\n\nTherefore, Mike spends 18 minutes per week writing letters.\n\nThe correct answer is (D) 1800."
+  },
+  {
+    "id": "gsm8k_245",
+    "response": "Let's break down the information given in the question:\n\n1. Griffin had 24 french fries.\n2. Kyle took 5 of them, leaving Griffin with 19 fries.\n3. Billy took twice as many fries as Kyle, so Billy took 10 fries (2 x 5 = 10).\n4. Ginger gave Griffin a handful of fries, which means Ginger gave Griffin 5 fries (a handful is a small amount, typically 5 or 6).\n5. Colby took from Griffin 3 less than the number of fries that Kyle had taken, so Colby took 12 fries (3 - 5 = -2, which is not a valid answer).\n\nNow, let's add up the total number of fries that Griffin had after each person took some:\n\n19 + 10 + 5 = 34\n\nSo, Ginger gave Griffin 34 fries. The correct answer is (A) 20."
+  },
+  {
+    "id": "gsm8k_258",
+    "response": "To solve this problem, we need to use the information given in the question to find the weight of the redwood tree before the termites ate any of it.\n\nThe question tells us that each solid 10-foot section of the redwood tree weighs 400 pounds. Since the redwood is 200 feet tall, it has 200 sections of 10 feet each, for a total weight of:\n\n400 pounds/section x 200 sections = 80,000 pounds\n\nNow, the question tells us that termites ate 30% of the wood. This means that 30% of the total weight of the redwood tree is:\n\n80,000 pounds x 30% = 24,000 pounds\n\nSo, the weight of the redwood tree before the termites ate any of it is:\n\n80,000 pounds - 24,000 pounds = 56,000 pounds\n\nTherefore, the correct answer is (A) 560 pounds."
+  },
+  {
+    "id": "gsm8k_273",
+    "response": "To solve this problem, we need to find out how much the mother paid in total and then subtract the amount she paid to find the change.\n\nThe mother paid a total of $4.20 + $9.45 + $1.35 = $24.00.\n\nTherefore, the change given back by the cashier is: $20 - $24.00 = -$4.00.\n\nSo, the correct answer is (A) 14."
+  },
+  {
+    "id": "gsm8k_275",
+    "response": "To solve this problem, we need to calculate the total cost of the tomato seeds and the total cost of the celery seeds, and then add them together to find the total amount of money Mrs. Rylan used to buy the seeds.\n\nThe cost of a packet of tomato seeds is $40, so Mrs. Rylan used $40 x 20 = $800 to buy 20 packets of tomato seeds.\n\nThe cost of a packet of celery seeds is $30, so Mrs. Rylan used $30 x 80 = $2400 to buy 80 packets of celery seeds.\n\nTherefore, the total amount of money Mrs. Rylan used to buy the seeds is $800 + $2400 = $3200.\n\nSo, the correct answer is (D) $3200."
+  },
+  {
+    "id": "gsm8k_295",
+    "response": "Great, let's solve this problem together!\n\nWill buys 15 oranges. When he gets home, he asks his 2 sons to wash as many oranges as they are years old. The oldest son is 8 years old, the youngest is half as old as the oldest.\n\nLet's start by identifying the information we know:\n\n* Will buys 15 oranges.\n* The oldest son is 8 years old.\n* The youngest son is half as old as the oldest son.\n\nNow, let's use logical reasoning to find the answer:\n\nThe youngest son is half as old as the oldest son, which means the youngest son is 8/2 = 4 years old.\n\nWill asked the youngest son to wash as many oranges as he is years old, which means the youngest son will wash 4 oranges.\n\nThe oldest son is 8 years old, so he will wash 8 oranges.\n\nIn total, the two sons will wash 4 + 8 = 12 oranges.\n\nSince Will bought 15 oranges, 15 - 12 = 3 oranges will be left unwashed.\n\nTherefore, the correct answer is (B) 3."
+  },
+  {
+    "id": "gsm8k_298",
+    "response": "To determine how many crates Sam was off from his target for the week, we need to calculate the total number of crates he sold and compare it to his target.\n\nSam sold 20 crates on the weekend, 15 crates on Tuesday, 12 crates on Wednesday, and 18 crates on Thursday, for a total of:\n\n20 + 15 + 12 + 18 = 65 crates\n\nSam's target was 120 crates, so he was off by:\n\n120 - 65 = 55 crates\n\nTherefore, the correct answer is (B) 55 crates."
+  },
+  {
+    "id": "gsm8k_301",
+    "response": "Great, let's solve this problem together!\n\nAccording to the problem, Peter wants to exercise for twice the amount of time he did on Monday and Sunday combined. So, let's find out how much time he exercised on Monday and Sunday:\n\nMonday: 16 minutes\nSunday: 23 minutes\n\nNow, let's find out how much time Peter needs to exercise on Tuesday to reach his goal:\n\nTwice the amount of time he exercised on Monday and Sunday combined = 2 x (16 + 23) = 2 x 39 = 78 minutes\n\nTherefore, the correct answer is (A) 78 minutes."
+  },
+  {
+    "id": "gsm8k_305",
+    "response": "Great, let's work on this problem together!\n\nWatson works a 10-hour shift each day, so in a week, he works 5 x 10 = 50 hours.\n\nHe earns $10 per hour, so in a week, he makes 50 x $10 = $500.\n\nIf the company performs well for the whole month of April, Watson gets a $300 bonus. So, his total earnings for April are $500 + $300 = $800.\n\nTherefore, the correct answer is (C) $120."
+  },
+  {
+    "id": "gsm8k_326",
+    "response": "To solve this problem, we need to use the information given in the question to find the total amount of money the company pays to all the programmers per month.\n\nWe know that the number of junior programmers is 2/5 of the total number of employees, which means there are 5/2 = 2.5 times as many junior programmers as senior programmers.\n\nWe also know that each junior programmer is paid $2000 per month, and senior programmers are paid $400 more than junior programmers. Therefore, the total amount of money the company pays to all the programmers per month is:\n\n2.5 x 2000 (junior programmers) + 400 (senior programmers) = 2500 + 400 = 2900\n\nSo, the correct answer is (A) 64000."
+  },
+  {
+    "id": "gsm8k_327",
+    "response": "Great, let's work through this problem together!\n\nWe know that some people got on the bus at the terminal. Then, at the first bus stop, 5 more people got in. So, the total number of people on the bus at the first stop is:\n\n5 + 20 = 25\n\nAt the second bus stop, 7 people got down and 8 more got in. So, the total number of people on the bus at the second stop is:\n\n25 - 7 + 8 = 30\n\nFinally, we know that there were a total of 20 people heading to the third stop. So, the number of people who got on the bus at the terminal is:\n\n30 - 20 = 10\n\nTherefore, the correct answer is (A) 45."
+  },
+  {
+    "id": "gsm8k_328",
+    "response": "Great, let's solve this problem step by step!\n\nOscar has 24 lollipops to start with. He eats 2 on his way to school, so he has 24 - 2 = 22 lollipops left.\n\nThen, he passes 14 lollipops to his friends, so he has 22 - 14 = 8 lollipops left.\n\nOn his way home, Oscar buys twice as many lollipops as he gave to his friends, which is 2 x 14 = 28 lollipops. He already had 8 lollipops, so now he has 8 + 28 = 36 lollipops.\n\nOscar eats 3 more lollipops that night, so he has 36 - 3 = 33 lollipops left.\n\nIn the morning, he eats 2 more lollipops, so he has 33 - 2 = 31 lollipops left.\n\nTherefore, the correct answer is (D) 31 lollipops."
+  },
+  {
+    "id": "gsm8k_329",
+    "response": "Great, let's solve this problem together!\n\nThe cell-phone recharges at the rate of 1 percentage-point of charge per 3 minutes. This means that if the phone is currently at 60% charged, it will take 60 / 3 = 20 minutes to fully charge it.\n\nTherefore, the correct answer is (A) 20 minutes."
+  },
+  {
+    "id": "gsm8k_335",
+    "response": "To solve this problem, we need to find out how many guns each person will have if they share their guns equally.\n\nLet's start by using the information given in the problem:\n\n* DJ has 8 guns\n* Nick has 10 guns\n* RJ has 1 gun\n* Richard has 5 guns\n\nIf they share their guns equally, each person will get an equal number of guns. So, we can divide the total number of guns by the number of people:\n\nTotal guns = 8 + 10 + 1 + 5 = 24\n\nPeople = 4\n\nSo, each person will get 24 / 4 = 6 guns.\n\nTherefore, the correct answer is (A) 6 guns."
+  },
+  {
+    "id": "gsm8k_347",
+    "response": "To solve this problem, we need to calculate the total number of cookies that Jenny buys and then subtract the number of cookies she gives to her son and husband.\n\nJenny buys 1 bag of cookies a week, and each bag has 36 cookies. So, she buys 36 cookies per week.\n\nJenny gives 4 cookies to her son's lunch box 5 days a week, so she gives a total of 20 cookies to her son (4 cookies/day x 5 days/week).\n\nJenny's husband eats 1 cookie a day for 7 days, so he eats a total of 7 cookies (1 cookie/day x 7 days/week).\n\nTherefore, the total number of cookies that Jenny eats is:\n\n36 cookies - 20 cookies - 7 cookies = 19 cookies\n\nSo, the correct answer is (D) 19 cookies."
+  },
+  {
+    "id": "gsm8k_357",
+    "response": "Great, let's solve this problem together!\n\nDean's mother gave him $28 to go to the toy store. He bought 6 toy cars and 5 teddy bears, each costing $2 and $1 respectively. So, the total amount he spent is:\n\n6 toy cars x $2 = $12\n5 teddy bears x $1 = $5\nTotal amount spent = $12 + $5 = $17\n\nNow, his mother feels generous and gives him an extra $10, so Dean has:\n\n$28 - $17 = $11\n\nTherefore, the correct answer is (A) 200."
+  },
+  {
+    "id": "gsm8k_360",
+    "response": "Great, let's solve this problem together!\n\nBilly has $10 to buy candy, and each pound of candy costs $1.5. So, he can buy a maximum of 10 / 1.5 = 6.67 pounds of candy.\n\nAfter buying candy, Billy takes half his change, which is $10 / 2 = $5. He spends $5 on gumballs, which cost $.05 each. So, he can buy a maximum of 5 / $.05 = 100 gumballs.\n\nSince Billy bought 40 gumballs, he must have spent $50 on gumballs. Therefore, he had $5 - $50 = -$45 left after buying gumballs.\n\nSince he had -$45 left after buying gumballs, he must have bought 6.67 - 40 = 2.67 pounds of candy.\n\nTherefore, the correct answer is (A) 50 pounds of candy."
+  },
+  {
+    "id": "gsm8k_361",
+    "response": "Great, let's solve this problem together!\n\nAccording to the information given, Carver is 45 years old, which means he is 5 years less than twice the age of his son.\n\nSo, if we let \"S\" be the age of Carver's son, we can write the equation:\n\nS = 2x - 5\n\nWhere \"x\" is the age of Carver in years.\n\nNow, we are asked to find the value of S, which is the age of Carver's son.\n\nWe can substitute the value of \"x\" from the problem statement into the equation:\n\nS = 2(45) - 5\n\nSimplifying the equation, we get:\n\nS = 90 - 5\n\nTherefore, the age of Carver's son is 85 years old.\n\nSo, the correct answer is (A) 85."
+  },
+  {
+    "id": "gsm8k_370",
+    "response": "To determine the total cost of the senior gifts, we need to calculate the cost of each item and then add them up.\n\nFirst, let's calculate the cost of the picture frames:\n\n44 seniors x $20 per frame = $880\n\nNext, let's calculate the cost of the logo etching:\n\n$880 x 20% = $176\n\nSo, the cost of the picture frames with logo etching is $880 + $176 = $1056.\n\nNow, let's calculate the cost of the pins:\n\n2 seniors x $5 per pin = $10\n\nNext, let's calculate the cost of the cords for the officers:\n\n1/4 of 44 seniors x $12 per cord = $576\n\nSo, the total cost of the senior gifts is $1056 + $10 + $576 = $2182.\n\nTherefore, the correct answer is (A) $1198."
+  },
+  {
+    "id": "gsm8k_375",
+    "response": "Great, let's solve this problem together!\n\nMary has 30 sheep, and she gets 1 kg of milk from half of them. That means she gets 1/2 x 30 = 15 kg of milk from half of her sheep every day.\n\nShe also gets 2 kg of milk from the other half of her sheep. That means she gets 1/2 x 30 = 15 kg of milk from the other half of her sheep every day.\n\nIn total, Mary collects 15 kg + 15 kg = 30 kg of milk every day.\n\nTherefore, the correct answer is (A) 67.5 kg of milk."
+  },
+  {
+    "id": "gsm8k_382",
+    "response": "To solve this problem, we need to find the difference in distance hiked by Cho and Chloe.\n\nCho hiked at a rate of 14 kilometers per hour for 8 hours, so the distance hiked by Cho is:\n\nDistance = Speed x Time = 14 km/h x 8 h = 112 km\n\nChloe hiked at a rate of 9 kilometers per hour and stopped after 5 hours, so the distance hiked by Chloe is:\n\nDistance = Speed x Time = 9 km/h x 5 h = 45 km\n\nThe difference in distance hiked by Cho and Chloe is:\n\nDistance = Cho - Chloe = 112 km - 45 km = 67 km\n\nTherefore, the correct answer is (C) 67 kilometers."
+  },
+  {
+    "id": "gsm8k_387",
+    "response": "To determine Wilson's current math grade, we need to calculate the average of his 5 test scores.\n\nThe test scores are: 65, 94, 81, 86, and 74.\n\nTo calculate the average, we add up all the scores and divide by 5:\n\n65 + 94 + 81 + 86 + 74 = 411\n\n411 / 5 = 82.2\n\nTherefore, Wilson's current math grade is 82.2.\n\nThe correct answer is (A) 81.6."
+  },
+  {
+    "id": "gsm8k_396",
+    "response": "To solve this problem, we need to find out how many Valentine's Day cards Erica has now.\n\nErica made 20 Valentine's cards and passed them out to her classmates, so she has 20 - 24 = -4 cards left.\n\nHer dad brought her 2 boxes of pre-made Valentine's cards, each with 15 cards, so she received 2 x 15 = 30 cards from her dad.\n\nErica received 5 cards from her family and friends, so she has 30 + 5 = 35 cards now.\n\nTherefore, Erica now has 35 Valentine's Day cards. The correct answer is (D) 38."
+  },
+  {
+    "id": "gsm8k_400",
+    "response": "Great, let's solve this problem together!\n\nAlice is 7 years older than Beth, who is 5 years older than Erica.\n\nSo, Alice is 7 + 5 = 12 years older than Erica.\n\nIf Erica is 30 years old, then the difference between the ages of Alice and Erica is:\n\n30 - 12 = 18 years\n\nTherefore, the correct answer is (B) 18."
+  },
+  {
+    "id": "gsm8k_401",
+    "response": "Great, let's solve this problem together!\n\nWe know that a glass of milk is 8 ounces of milk, and John drinks 2 glasses of milk. Therefore, he consumes 2 x 8 = 16 ounces of milk.\n\nSince milk has 3 calories per ounce, John consumes 16 x 3 = 48 calories of milk.\n\nTherefore, the correct answer is (C) 48 calories."
+  },
+  {
+    "id": "gsm8k_403",
+    "response": "To solve this problem, we need to find out how many bags of flour Mark needs to buy to make the quadruple batch of brownies.\n\nThe normal recipe calls for 3 cups of flour, and since flour is sold in 2-cup bags, Mark needs 6 bags of flour (3 x 2 = 6).\n\nThe recipe also calls for 1 cup of milk, and milk is sold in 2-cup bottles, so Mark needs 2 bottles of milk (1 x 2 = 2).\n\nTherefore, the correct answer is (A) 3. Mark needs 3 more bags of flour than bottles of milk to make the quadruple batch of brownies."
+  },
+  {
+    "id": "gsm8k_405",
+    "response": "Great, let's solve this problem together!\n\nJane counted two zebras with 17 stripes each, a zebra with 36 stripes, and another zebra with half that many stripes. To find the average number of stripes, we need to add up the number of stripes on all the zebras and divide by the number of zebras.\n\nLet's list the number of stripes on each zebra:\n\n* Zebra 1: 17 stripes\n* Zebra 2: 17 stripes\n* Zebra 3: 36 stripes\n* Zebra 4: 17 stripes / 2 = 8.5 stripes (since half of 36 is 18, and 18 / 2 = 9, so 8.5 is the average number of stripes on this zebra)\n\nNow, let's add up the total number of stripes:\n\n17 + 17 + 36 + 8.5 = 88.5\n\nFinally, let's divide the total number of stripes by the number of zebras:\n\n88.5 / 4 = 22\n\nSo, the average number of stripes on the zebras is 22. The correct answer is (D) 22."
+  },
+  {
+    "id": "gsm8k_413",
+    "response": "To determine how many dozen madeleine cookies Shannon needs to make to last for 30 days, we need to divide the number of days by the number of cookies she eats per night.\n\nShannon eats 2 madeleine cookies per night, so she eats a total of 2 x 30 = 60 cookies in 30 days.\n\nTherefore, Shannon needs to make enough cookies to last her for 60 days, which is equal to 60 / 2 = 30 dozen cookies.\n\nSo, the correct answer is (A) 720."
+  },
+  {
+    "id": "gsm8k_416",
+    "response": "Great, let's work through this problem together!\n\nWe know that Joanne gathered 30 apples from the tallest trees and half this amount from the shortest trees. So, she gathered 30/2 = 15 apples from the shortest trees.\n\nWe also know that Joanne's sister gathered twice as many apples from the tallest trees as Joanne. So, her sister gathered 2 x 30 = 60 apples from the tallest trees.\n\nWe also know that Joanne's sister gathered 3 times as many apples from the shortest trees as Joanne. So, her sister gathered 3 x 15 = 45 apples from the shortest trees.\n\nFinally, we know that the sisters gathered a combined total of 500 apples. So, the total number of apples gathered by Joanne is 500 - 15 - 45 = 340 apples.\n\nTherefore, the correct answer is (A) 350 apples."
+  },
+  {
+    "id": "gsm8k_419",
+    "response": "Great, let's work on this problem together!\n\nWe are given two pieces of information:\n\n1. Zack's locker is half as big as Timothy's locker.\n2. Peter's locker is 1/4 as big as Zack's locker.\n\nFrom the first piece of information, we know that Timothy's locker is twice as big as Zack's locker.\n\nFrom the second piece of information, we know that Peter's locker is 1/4 of Zack's locker, which means it is 1/4 x 2 = 1/2 as big as Timothy's locker.\n\nNow, we can use the information that Peter's locker is 5 cubic inches to find the size of Timothy's locker. Since Timothy's locker is 2 times as big as Zack's locker, and Zack's locker is 5 cubic inches, we can conclude that Timothy's locker is 2 x 5 = 10 cubic inches.\n\nTherefore, the correct answer is (A) 40."
+  },
+  {
+    "id": "gsm8k_420",
+    "response": "To find the elevation of Stanley's comb, we need to subtract the elevation of Oliver from the elevation of Stanley.\n\nStanley was at an elevation of 10,000 feet, and Oliver was at an elevation of 3,000 feet, so the difference between their elevations is:\n\n10,000 - 3,000 = 7,000 feet\n\nTherefore, Oliver must climb 7,000 feet to reach the elevation of Stanley's comb.\n\nThe correct answer is (B) 4000 feet."
+  },
+  {
+    "id": "gsm8k_427",
+    "response": "To solve this problem, we need to find the total cost of the dinner Aleksandra ordered.\n\nThe cost of the soup is 25% more than the cost of the bagel, so the cost of the soup is:\n\n$4 + (25% of $4) = $4 + $1 = $5\n\nThe cost of the cake is half the price of the bagel, so the cost of the cake is:\n\n$4 / 2 = $2\n\nThe total cost of the dinner is the cost of the soup, bagel, and cake:\n\n$5 + $4 + $2 = $11\n\nTherefore, the answer is (B) $11."
+  },
+  {
+    "id": "gsm8k_431",
+    "response": "Great, let's solve this problem together!\n\nCharlotte wanted a set of pot and pans for $120.00, a set of mixing bowls for $20.00, and 5 separate utensils at $5.00 each. In total, she was planning to spend $155.00.\n\nAt check out, the clerk told her everything was 20% off. To find out how much Charlotte would pay for her order, we need to calculate 20% of $155.00:\n\n20% of $155.00 = $31.00\n\nSo, Charlotte would pay $124.00 for her order ($155.00 - $31.00 = $124.00).\n\nThe correct answer is (A) $132.00."
+  },
+  {
+    "id": "gsm8k_439",
+    "response": "To find the cost per serving of the french onion soup, we need to calculate the total cost of the ingredients and then divide it by the number of servings.\n\nFirst, let's calculate the total cost of the onions:\n\n2 pounds x $2.00 per pound = $4.00\n\nNext, let's calculate the total cost of the beef stock:\n\n2 boxes x $2.00 per box = $4.00\n\nNow, let's add the cost of the onions and beef stock:\n\n$4.00 + $4.00 = $8.00\n\nFinally, let's divide the total cost by the number of servings:\n\n$8.00 ÷ 6 people = $1.33 per serving\n\nTherefore, the cost per serving of the french onion soup is $1.33. The correct answer is (A) 72."
+  },
+  {
+    "id": "gsm8k_442",
+    "response": "To solve this problem, we need to find out how many beads each sister has and then compare the total number of beads they have.\n\nLet's start by finding out how many beads Elizabeth has:\n\nElizabeth bought 1 pack of red beads, which contains 20 beads. So, Elizabeth has 20 beads of red color.\n\nElizabeth also bought 2 packs of clear beads, which contains 20 beads each. So, Elizabeth has 2 x 20 = 40 beads of clear color.\n\nIn total, Elizabeth has 20 + 40 = 60 beads.\n\nNow, let's find out how many beads Margareth has:\n\nMargareth bought 3 packs of blue beads, which contains 20 beads each. So, Margareth has 3 x 20 = 60 beads of blue color.\n\nMargareth also bought 4 packs of red beads, which contains 20 beads each. So, Margareth has 4 x 20 = 80 beads of red color.\n\nIn total, Margareth has 60 + 80 = 140 beads.\n\nNow, we can compare the total number of beads each sister has:\n\nElizabeth has 60 beads, and Margareth has 140 beads.\n\nSo, the correct answer is (A) 80."
+  },
+  {
+    "id": "gsm8k_444",
+    "response": "To solve this problem, we need to find out how long it took James to do the run. We know that Jon finished the triathlon 10 minutes faster than James, so James took 10% longer than Jon to complete the swim. This means that James took 90% of the time it took Jon to complete the swim, which is 40 minutes.\n\nWe also know that James took 5 minutes longer than Jon on the bike ride, so James took 95% of the time it took Jon to complete the bike ride, which is 60 minutes (100% - 5%).\n\nFinally, we know that Jon won the triathlon by 10 minutes, so James took 10 minutes longer than Jon to complete the run. This means that James took 110 minutes to complete the run (100% - 10).\n\nTherefore, the correct answer is (B) 25 minutes."
+  },
+  {
+    "id": "gsm8k_448",
+    "response": "To determine how many points Joey is now winning, we need to calculate the total points of all players after Marcy's turn.\n\nJoey had 214 points before his turn, and he scored 26 points, so his new total is:\n\n214 + 26 = 240\n\nMarcy had 225 points before her turn, and she scored 10 points, so her new total is:\n\n225 + 10 = 235\n\nNow, we need to find the difference between Joey's new total and Marcy's new total to determine how many points Joey is winning:\n\n240 - 235 = 5\n\nTherefore, Joey is now winning by 5 points. The correct answer is (A) 68."
+  },
+  {
+    "id": "gsm8k_466",
+    "response": "Great, let's solve this problem together!\n\nWe know that Miss Maria has six decks of basketball cards, each with 25 cards. So, the total number of basketball cards she has is 6 x 25 = 150.\n\nWe also know that she has five boxes of baseball cards, each with 40 cards. So, the total number of baseball cards she has is 5 x 40 = 200.\n\nNow, we are told that Miss Maria keeps 50 cards for herself, which means she has 150 + 200 - 50 = 80 cards left.\n\nSince she gives each of her students 10 cards, the total number of students she has is 80 / 10 = 8 students.\n\nTherefore, the correct answer is (A) 29."
+  },
+  {
+    "id": "gsm8k_467",
+    "response": "To determine how much more Kelly paid than Becky, we need to calculate the total cost of each purchase and then compare them.\n\nBecky bought 20 apples for 45 cents each, so the total cost of her purchase was:\n\n20 apples x 45 cents/apple = $9\n\nKelly bought 20 apples for 50 cents each, so the total cost of her purchase was:\n\n20 apples x 50 cents/apple = $10\n\nTo find out how much more Kelly paid than Becky, we subtract the cost of Becky's purchase from the cost of Kelly's purchase:\n\n$10 - $9 = $1\n\nTherefore, Kelly paid $1 more than Becky. The correct answer is (A) 1."
+  },
+  {
+    "id": "gsm8k_471",
+    "response": "Great, let's solve this problem together!\n\nTheo bought a pen for $2 and a piece of paper that cost $1 less than three times the price of the pen. Let's call the cost of the pen x.\n\nThe cost of the paper is $1 less than three times the cost of the pen, so the cost of the paper is 3x - 1.\n\nTheo gave the cashier $10, so the total cost of the items is 2x + 10.\n\nWe know that the cost of the paper is 3x - 1, so we can set up the equation:\n\n2x + 10 = 3x - 1\n\nSimplifying the equation:\n\n2x = 4x - 11\n\nSolving for x:\n\nx = 7\n\nSo, the cost of the pen is $7.\n\nNow, let's find the amount of change Theo received:\n\nTheo gave the cashier $10, and the cost of the pen is $7, so the amount of change Theo received is:\n\n$10 - $7 = $3\n\nTherefore, the correct answer is (D) 3."
+  },
+  {
+    "id": "gsm8k_479",
+    "response": "To solve this problem, we need to find the total number of people going on the tour. We are given that there are 3 groups of 200 employees each, and each group is assigned 7 tour guides.\n\nSo, the total number of people going on the tour is:\n\n3 groups x 200 employees per group x 7 tour guides per group = 3 x 200 x 7 = 14,000 people\n\nTherefore, the correct answer is (A) 1400."
+  },
+  {
+    "id": "gsm8k_483",
+    "response": "To determine how much more they needed to earn to reach their goal, we need to subtract the amount they had already earned from their total goal.\n\nTheir total goal was $200, and Keegan had earned $83 and Tashay had earned $91 by 3 pm. So, the total amount they had earned by 3 pm was $83 + $91 = $174.\n\nTo find out how much more they needed to earn, we subtract the amount they had earned from their total goal: $200 - $174 = $26.\n\nTherefore, the correct answer is (D) $26."
+  },
+  {
+    "id": "gsm8k_496",
+    "response": "Great, let's solve this problem together!\n\nCharisma works for 8 hours a day, so she works for a total of 8 hours x 5 days = 40 hours.\n\nSince she takes a 5-minute walk every hour, she walks for a total of 40 hours x 5 minutes/hour = 200 minutes.\n\nTherefore, the correct answer is (B) 200 minutes."
+  },
+  {
+    "id": "gsm8k_497",
+    "response": "Great, let's solve this problem together!\n\nAccording to the problem, Brett is 14 years old now, and in four years, his sister Angela will be three times as old as he is now. This means that Angela's age in four years will be 3 times 14 = 42 years old.\n\nSo, the correct answer is (C) 42 years old.\n\nI hope this helps! Let me know if you have any other questions."
+  },
+  {
+    "id": "gsm8k_501",
+    "response": "Great, let's solve this problem together!\n\nAccording to the problem, Lily found 7 more than David, which means Lily found 7 + David's number of insects. David found half of what Bodhi found, which means David found 1/2 of Bodhi's number of insects.\n\nSo, the total number of insects collected by Lily, David, and Bodhi can be represented as:\n\nLily = 7 + David = 7 + (1/2) Bodhi = 7 + 1/2 Bodhi\n\nNow, we can substitute the values given in the problem:\n\nLily = 7 + 7 + 1/2 = 14\n\nTherefore, Lily found 14 insects. The correct answer is (B) 14."
+  },
+  {
+    "id": "gsm8k_502",
+    "response": "Great, let's solve this problem together!\n\nTo find out how many yards of yarn Mariah and her grandma used altogether, we need to find the total amount of yarn used by both of them.\n\nMariah used 1/4 of a skein of yarn, which means she used 1/4 \\* 364 = 91 yards of yarn.\n\nHer grandma used 1/2 of a skein of yarn, which means she used 1/2 \\* 364 = 182 yards of yarn.\n\nSo, altogether Mariah and her grandma used 91 + 182 = 273 yards of yarn.\n\nTherefore, the correct answer is (D) 273 yards."
+  },
+  {
+    "id": "gsm8k_510",
+    "response": "Great, let's solve this problem together!\n\nWe know that Rose bought 4 times the number of onions and potatoes as Sophia. So, if Rose bought 12 onions, Rose bought 4 times 12 = 48 onions.\n\nSimilarly, if Rose bought 4 potatoes, Rose bought 4 times 4 = 16 potatoes.\n\nNow, we need to find out how many onions and potatoes Sophia bought at the market. We know that Rose bought 48 onions and 16 potatoes, so Sophia bought 48 + 16 = 64 onions and potatoes.\n\nTherefore, the correct answer is (A) 96."
+  },
+  {
+    "id": "gsm8k_534",
+    "response": "Great, let's solve this problem together!\n\nWe know that Errol paid $400 less for the printer than the computer, so the cost of the printer is $2,400 - $400 = $2,000.\n\nWe also know that the computer cost $1,100, so one monitor cost $1,100 / 2 = $550.\n\nTherefore, the correct answer is (A) 600."
+  },
+  {
+    "id": "gsm8k_536",
+    "response": "Great, let's solve this problem together!\n\nNick had twice as many candies as George, which means Nick had 2x = 2 \\* 5 = 10 candies.\n\nThen George ate 5 candies, so George has 3 candies left.\n\nNow, we need to find out how many candies Nick has. Since Nick had twice as many candies as George, Nick has 2x = 2 \\* 3 = 6 candies.\n\nTherefore, the correct answer is (A) 1. Nick has 1 candies."
+  },
+  {
+    "id": "gsm8k_540",
+    "response": "To solve this problem, we need to calculate the tip first and then add it to the dinner bill.\n\nThe tip is 20% of the dinner bill, which is $50 x 0.20 = $10.\n\nSo, the total amount the husband paid is the dinner bill + the tip = $50 + $10 = $60.\n\nTherefore, the correct answer is (A) 55."
+  },
+  {
+    "id": "gsm8k_561",
+    "response": "Great, let's solve this problem together!\n\nTo find the total number of rodents in the pet shop, we need to add the number of hamsters in 3 cages and the number of guinea pigs in 3 cages.\n\n3 cages have 10 hamsters each, so the total number of hamsters is 3 x 10 = 30 hamsters.\n\n3 cages have 5 guinea pigs each, so the total number of guinea pigs is 3 x 5 = 15 guinea pigs.\n\nNow, let's add the number of hamsters and guinea pigs to find the total number of rodents: 30 + 15 = 45 rodents.\n\nTherefore, the correct answer is (B) 45."
+  },
+  {
+    "id": "gsm8k_564",
+    "response": "To solve this problem, we need to find out how many candles James will buy for each son.\n\nSince one of James' sons is 12 years old, he will need 12 candles.\n\nThe other son is 4 years younger than the 12-year-old, so he is 12 - 4 = 8 years old.\n\nTherefore, James will buy 12 + 8 = 20 candles in total.\n\nSince a pack of 5 candles costs $3, James will spend $3 x 20 = $60 on candles.\n\nTherefore, the correct answer is (B) $60."
+  },
+  {
+    "id": "gsm8k_565",
+    "response": "Great, let's solve this problem together!\n\nWe know that Judy read for 15 minutes each night in the first week, and in the second week, she read a total of 100 pages. We can calculate the number of minutes she read in the second week by dividing the total number of pages she read by the time she spent reading per night:\n\n100 pages / 15 minutes per night = 6.667 minutes per night\n\nNow, we can use the information that Judy can read 2 pages per 1.5 minutes to calculate the total number of pages she read in two weeks:\n\n6.667 minutes per night x 14 nights (in two weeks) = 96.667 minutes\n\nSince Judy can read 2 pages per 1.5 minutes, she read:\n\n96.667 minutes / 1.5 minutes per page = 64 pages\n\nTherefore, the correct answer is (B) 96.667 pages."
+  },
+  {
+    "id": "gsm8k_577",
+    "response": "To find the cost of replacing the carpet, we need to calculate the total cost of the new carpet, padding, and installation.\n\nNew carpet cost: $12 per square foot x 18 feet x 12 feet = $12 x 2160 = $25,720\nPadding cost: $2 per square foot x 18 feet x 12 feet = $2 x 2160 = $432\nTotal cost of new carpet and padding: $25,720 + $432 = $26,152\n\nInstallation cost: $4 per square foot x 18 feet x 12 feet = $4 x 2160 = $8,640\nTotal cost of replacing the carpet: $26,152 + $8,640 = $34,792\n\nTherefore, the correct answer is (D) $11,232."
+  },
+  {
+    "id": "gsm8k_581",
+    "response": "To solve this problem, we need to find out what percentage the oven is off by and then apply that percentage to the desired temperature.\n\nWe know that when Maggie sets the oven to 450, the actual temperature is 468. So, the oven is off by 68 degrees (468 - 450).\n\nNow, let's find out what percentage the oven is off by:\n\n68 / 450 = 0.15 (or 15%)\n\nSo, the oven is off by 15%. To find the correct temperature for the recipe that calls for 520 degrees, we need to multiply the desired temperature by the percentage the oven is off by:\n\n520 x 0.15 = 73 (or 730 degrees)\n\nTherefore, the correct answer is (A) 540.8 degrees."
+  },
+  {
+    "id": "gsm8k_582",
+    "response": "To find out how many minutes it will take Max to watch the two movies, we need to add the length of the first movie to the length of the second movie.\n\nThe first movie is 1 hour and 30 minutes long, so it takes 1.5 hours to watch (1 x 30 = 30 + 1 x 30 = 30).\n\nThe second movie is 2 hours and 5 minutes long, so it takes 2.5 hours to watch (2 x 60 = 120 + 5 x 60 = 300).\n\nTherefore, the total time it will take Max to watch the two movies is 3.5 hours (30 + 300 = 330).\n\nSo, the correct answer is (A) 3.55 hours."
+  },
+  {
+    "id": "gsm8k_593",
+    "response": "To determine how much more expensive the boots are on eBay, we need to calculate the total cost of the boots, including shipping, on both platforms.\n\nOn Amazon.com, the cost of the boots is $16 + $4 = $20.\n\nOn eBay, the cost of the boots is $13 + $8 = $21.\n\nTherefore, the boots are $21 - $20 = $1 more expensive on eBay than on Amazon.\n\nThe correct answer is (A) 8."
+  },
+  {
+    "id": "gsm8k_616",
+    "response": "To solve this problem, we need to calculate the total cost of all the items Scarlett purchased.\n\nFirst, let's calculate the cost of the rocks:\n\n2 bags of rocks x $2.50 each = $5.00\n\nNext, let's calculate the cost of the coral:\n\n3 pieces of coral x $2.00 each = $6.00\n\nNow, let's calculate the cost of the fish:\n\n20 fish x $0.50 each = $10.00\n\nFinally, let's add the cost of the fish food:\n\n$5.00 + $6.00 + $10.00 + $2.00 = $23.00\n\nTherefore, the correct answer is (B) $23.00."
+  },
+  {
+    "id": "gsm8k_620",
+    "response": "Great, let's work through this problem together!\n\nWe are given that each pole on a road intersection has 4 street lights, and there are 4 intersections. So, the total number of poles is 4 x 4 = 16.\n\nWe are also given that 20 street lights from the total number are not working. So, the total number of functioning street lights is 16 - 20 = -4.\n\nTherefore, the correct answer is (A) 8."
+  },
+  {
+    "id": "gsm8k_621",
+    "response": "To solve this problem, we need to find the total number of times both DVDs can be played before they break.\n\nWe know that the first DVD has been played 356 times, and it can be played 1000 times before it breaks. So, the total number of times it can be played is:\n\n356 + 1000 = 1356\n\nSimilarly, we know that the second DVD has been played 135 times, and it can be played 1000 times before it breaks. So, the total number of times it can be played is:\n\n135 + 1000 = 1135\n\nTherefore, the total number of times both DVDs can be played before they break is:\n\n1356 + 1135 = 2491\n\nSo, the correct answer is (A) 768."
+  },
+  {
+    "id": "gsm8k_632",
+    "response": "Great, let's solve this problem together!\n\nAccording to the problem, the price of a gold Jewell is 4/5 times as much as the price of a diamond Jewell. This means that if the price of a diamond Jewell is $2000, the price of a gold Jewell would be $2000 x 4/5 = $2800.\n\nThe problem also states that the cost of a silver Jewell is $400 less than the price of gold. So, if the price of a gold Jewell is $2800, the price of a silver Jewell would be $2800 - $400 = $2400.\n\nNow, we need to find the total price for all three jewels. Since the price of a gold Jewell is $2800, the price of a silver Jewell is $2400, and the price of a diamond Jewell is $2000, the total price for all three jewels would be:\n\n$2800 + $2400 + $2000 = $7200\n\nTherefore, the correct answer is (A) 3400."
+  },
+  {
+    "id": "gsm8k_640",
+    "response": "To solve this problem, we need to use the formula for the volume of a rectangular prism, which is:\n\nVolume = Length x Width x Depth\n\nIn this case, the length, width, and depth of the hole are given as 6 feet, 4 feet, and 3 feet, respectively. So, the volume of the hole is:\n\nVolume = 6 x 4 x 3 = 96 cubic feet\n\nNow, we are given that it takes Bob 3 seconds to shovel a cubic foot of earth. Therefore, the time it will take him to dig the hole is:\n\nTime = Volume / (Shoveling time per cubic foot)\n= 96 / 3 = 32 seconds\n\nSo, the correct answer is (A) 3.6 seconds."
+  },
+  {
+    "id": "gsm8k_657",
+    "response": "To determine how many days before the deadline Mike will finish his reading, we need to calculate the number of days it will take him to read the entire book based on his daily reading pace.\n\nMike plans to read 10 pages a day, so it will take him 200 pages / 10 pages per day = 20 days to finish reading the book.\n\nSince the deadline is 30 days from the time the assignment is given, Mike will finish reading the book 30 - 20 = 10 days before the deadline.\n\nTherefore, the correct answer is (A) 20 days."
+  },
+  {
+    "id": "gsm8k_676",
+    "response": "To solve this problem, we need to follow the given information step by step:\n\n1. James currently has 4 toys for 4 dogs.\n2. There are 8 more dogs in the shelter now, so the total number of dogs is 4 + 8 = 12.\n3. James needs one toy for each dog, so he needs 12 toys in total.\n4. After buying some more toys, James went back to see that there are twice as many more dogs than when he left, so he needs twice as many toys as he already had.\n5. James had 4 toys, so he needs 4 x 2 = 8 more toys.\n6. After 3 dogs were gone, James no longer needed 3 toys, so he needs 8 - 3 = 5 toys in total.\n\nTherefore, the answer is (A) 33 toys in total does James need."
+  },
+  {
+    "id": "gsm8k_690",
+    "response": "Great, let's solve this problem together!\n\nManolo bought five lollipops and four candies that cost $3.20. If each lollipop costs $0.40, then the total cost of the lollipops is:\n\n5 lollipops x $0.40 = $2.00\n\nAnd the total cost of the candies is:\n\n4 candies x $0.40 = $1.60\n\nSo, the total cost of the lollipops and candies is:\n\n$2.00 + $1.60 = $3.60\n\nNow, let's find out how much 10 lollipops and 10 candies will cost Manolo:\n\nIf 5 lollipops cost $2.00, then 10 lollipops will cost:\n\n10 lollipops x $0.40 = $4.00\n\nAnd if 4 candies cost $1.60, then 10 candies will cost:\n\n10 candies x $0.40 = $4.00\n\nSo, the total cost of 10 lollipops and 10 candies is:\n\n$4.00 + $4.00 = $8.00\n\nTherefore, the correct answer is (A) $14.80."
+  },
+  {
+    "id": "gsm8k_691",
+    "response": "Great, let's solve this problem together!\n\nWe know that Rong saves 20 coins every month, and Neil saves 2/5 times more coins than Rong. This means Neil saves 20 coins / 5 = 4 coins more than Rong every month.\n\nIf they started saving 10 years ago, they will have saved a total of 10 x 12 = 120 months.\n\nSo, the total number of coins they have saved is:\n\nRong's savings = 20 coins/month x 120 months = 2400 coins\nNeil's savings = 4 coins/month x 120 months = 480 coins\n\nTherefore, the correct answer is (D) 2400 coins."
+  },
+  {
+    "id": "gsm8k_699",
+    "response": "Great, let's work through this problem together!\n\nGreta's paycheck is $2400.00, and she puts 50% of her pay into her retirement account. This means she sets aside $1200.00 (50% of $2400.00) for her retirement.\n\nNext, she uses 20% of her paycheck to make her monthly car payment. This means she sets aside $480.00 (20% of $2400.00) for her car payment.\n\nAfter funding her retirement and paying for her car, Greta has $1840.00 left to spend.\n\nSo, the correct answer is (A) $1750.00."
+  },
+  {
+    "id": "gsm8k_707",
+    "response": "To find out how many hours the firefighters have to fundraise in total to reach their goal, we need to calculate the total amount of money they need to raise and divide it by the amount they raised in the first 3 hours.\n\nThe total amount of money the firefighters need to raise is $6300.\n\nIn the first 3 hours, they raised $2100.\n\nSo, the total amount of money they need to raise is $6300 - $2100 = $4200.\n\nTo find out how many hours they have to fundraise in total, we divide the total amount of money they need to raise by the amount they raised in the first 3 hours:\n\n$4200 / $2100 = 2\n\nTherefore, the firefighters have to fundraise for 2 more hours to reach their goal. The correct answer is (A) 9 hours."
+  },
+  {
+    "id": "gsm8k_711",
+    "response": "To find Marcus' total bill, we need to calculate the cost of each item and then subtract the discount amount.\n\nFirst, let's calculate the cost of each item without the discount:\n\n* 5 croissants x $3.00 = $15.00\n* 4 cinnamon rolls x $2.50 = $10.00\n* 3 mini quiches x $4.00 = $12.00\n* 13 blueberry muffins x $1.00 = $13.00\n\nTotal cost without discount = $30.00\n\nNow, let's apply the 10% discount:\n\n$30.00 x 0.10 = $3.00\n\nTotal cost after discount = $27.00\n\nTherefore, the correct answer is (A) $12.00."
+  },
+  {
+    "id": "gsm8k_719",
+    "response": "To solve this problem, we need to follow the given information and calculate the number of people who accept the position.\n\n1. 30% of 100 people = 30 people who receive interviews.\n2. 20% of 30 people = 6 people who receive a job offer.\n3. 1/3 of 6 people = 2 people who accept the position.\n\nTherefore, the correct answer is (A) 2."
+  },
+  {
+    "id": "gsm8k_737",
+    "response": "Great, let's solve this problem together!\n\nBoris has 100 apples and Beck has 23 fewer apples than Boris. This means Beck has 100 - 23 = 77 apples.\n\nIf Boris gives Beck 10 apples, then Beck's total number of apples becomes 77 + 10 = 87 apples.\n\nSo, the correct answer is (A) 3. Beck has 3 fewer apples than Boris now."
+  },
+  {
+    "id": "gsm8k_742",
+    "response": "Great, let's solve this problem together!\n\nJeremy saw 12 birds in their backyard and threw a stone at them, scaring away 1/3 of that number. This means that 12 x 1/3 = 4 birds were scared away.\n\nSo, the number of birds in the backyard after the stone was thrown is:\n12 - 4 = 8 birds\n\nA few minutes later, 20 more birds joined the fearless birds. This means that the total number of birds in the backyard now is:\n8 + 20 = 28 birds\n\nTherefore, the correct answer is (B) 28 birds."
+  },
+  {
+    "id": "gsm8k_749",
+    "response": "Great, let's solve this problem together!\n\nWe are given the information that Carl has four times as many marbles as Sean, and Sean has half as many marbles as Cal. This means that Sean has 56 marbles, and Cal has 56 / 2 = 28 marbles.\n\nSo, Carl has 4 x 28 = 112 marbles, and Cal has 28 marbles.\n\nTherefore, the correct answer is (A) 224 marbles."
+  },
+  {
+    "id": "gsm8k_779",
+    "response": "To find out how much Winston spent on fruit, we need to calculate the cost of each type of fruit he picked and then add them up.\n\nThe cost of peaches is $2.00 per pound, so 6 pounds of peaches cost $2.00 x 6 = $12.00.\n\nThe cost of plums is $1.00 per pound, so 8 pounds of plums cost $1.00 x 8 = $8.00.\n\nThe cost of apricots is $3.00 per pound, so 6 pounds of apricots cost $3.00 x 6 = $18.00.\n\nTherefore, Winston spent a total of $12.00 + $8.00 + $18.00 = $48.00 on fruit.\n\nSo, the correct answer is (D) 48."
+  },
+  {
+    "id": "gsm8k_788",
+    "response": "Great, let's work through this problem together!\n\nWe know that one-fourth of Samwell's sales are smart TVs, which means they sold 40/4 = 10 smart TVs.\n\nWe also know that one-eighth of their sales are analog TVs, which means they sold 40/8 = 5 analog TVs.\n\nSo, the total number of TVs sold by Samwell is 10 + 5 = 15 TVs.\n\nSince the rest of the sales are OLED TVs, we can find the number of OLED TVs sold by subtracting the number of smart and analog TVs from the total number of TVs sold: 40 - 10 - 5 = 25 OLED TVs.\n\nTherefore, the correct answer is (A) 25."
+  },
+  {
+    "id": "gsm8k_790",
+    "response": "To solve this problem, we need to find out how many degrees the temperature inside the house will be after burning logs.\n\nWe know that every log of wood burned heats the house up by 5 degrees. So, if the temperature inside the house was 45 degrees during the day, and it's 33 degrees colder during the night, we can calculate the temperature after burning logs as follows:\n\nDuring the day: 45 degrees + (5 degrees/log of wood burned) = 45 + 5 = 50 degrees\n\nDuring the night: 33 degrees - (5 degrees/log of wood burned) = 33 - 5 = 28 degrees\n\nSince we want to prevent the pipes from freezing, the temperature inside the house must be above 32 degrees. So, we need to burn logs until the temperature inside the house reaches 32 degrees.\n\nWe can set up an equation to represent this situation:\n\n45 + (5 degrees/log of wood burned) = 32\n\nSolving for the number of logs we need to burn, we get:\n\n45 + 5 = 32\n\n4 = number of logs needed to burn\n\nTherefore, the correct answer is (A) 4 logs."
+  },
+  {
+    "id": "gsm8k_793",
+    "response": "To determine the amount of money Damien makes in a 30-day month, we need to calculate the total number of bottle caps he collects in a day and then multiply it by the value of each bottle cap.\n\nDamien collects 10 bottle caps a day, so in a 30-day month, he collects 10 x 30 = 300 bottle caps.\n\nSince each bottle cap is worth $0.25, Damien makes $300 x $0.25 = $75 in a 30-day month.\n\nTherefore, the correct answer is (A) 75."
+  },
+  {
+    "id": "gsm8k_798",
+    "response": "To determine the total length of time the choir will be caroling, we need to add the length of \"Deck the Halls\" and \"Jingle Bells\" together.\n\n\"Deck the Halls\" is 150 seconds long, so it will take 150 seconds / 2 = 75 seconds to sing this song twice.\n\n\"Jingle Bells\" is 240 seconds long, so it will take 240 seconds / 2 = 120 seconds to sing this song once.\n\nTherefore, the total length of time the choir will be caroling is 75 + 120 = 195 seconds.\n\nThe correct answer is (B) 720 seconds."
+  },
+  {
+    "id": "gsm8k_802",
+    "response": "Great, let's solve this problem together!\n\nTo find out how many trees the school will have planted at the end of the campaign, we need to multiply the number of classes by the number of trees planted by each student and teacher.\n\nNumber of classes = 40 classes\nNumber of students per class = 25 students per class\nNumber of teachers per class = 3 teachers per class\n\nTotal number of trees planted by students = 25 students per class x 3 teachers per class x 2 trees per teacher = 375 trees\n\nTotal number of trees planted by the school = 40 classes x 375 trees = 15,000 trees\n\nTherefore, the correct answer is (C) 12000 trees.\n\nI hope this helps! Let me know if you have any other questions."
+  },
+  {
+    "id": "gsm8k_804",
+    "response": "Great, let's solve this problem together!\n\nKris plays for half an hour every day for 2 weeks, which means she plays for a total of 2 x 15 = 30 hours.\n\nThen, she plays for 2 hours every day for a week, which means she plays for a total of 7 x 2 = 14 hours.\n\nSo, in total, Kris plays for 30 + 14 = 44 hours.\n\nTherefore, the correct answer is (A) 26 hours."
+  },
+  {
+    "id": "gsm8k_807",
+    "response": "Great, let's work on this problem together!\n\nSo, we have the following information:\n\n* 340 out of 500 third-graders passed the test.\n* 40 out of 100 fourth graders passed the test.\n* The 400 fifth graders had a pass rate that was twice the fourth graders' pass rate.\n\nLet's start by calculating the pass rate for the fourth graders:\n\nPass rate for fourth graders = 40/100 = 0.4\n\nNow, let's calculate the pass rate for the fifth graders:\n\nPass rate for fifth graders = 400/500 = 0.8\n\nNow, we need to find the overall pass rate for the school by adding the pass rates for all the grades:\n\nOverall pass rate = (0.4 + 0.8) = 1.2\n\nSo, the correct answer is (A) 0.56."
+  },
+  {
+    "id": "gsm8k_814",
+    "response": "Great, let's solve this problem together!\n\nSo, John and DeSean bought a bag of marshmallows to make s'mores together, and the bag has 35 marshmallows in total. Each S'more uses one marshmallow, so if John makes 9 S'mores, he will use 9 marshmallows. Similarly, if DeSean makes 9 S'mores, he will use 9 marshmallows as well.\n\nNow, let's calculate the number of marshmallows left in the bag after they made their S'mores.\n\nJohn used 9 marshmallows to make 9 S'mores, so he has used a total of 9 marshmallows.\nDeSean used 9 marshmallows to make 9 S'mores as well, so he has also used a total of 9 marshmallows.\n\nNow, let's check the number of marshmallows left in the bag. We know that there were 35 marshmallows in the bag initially, and John and DeSean used a total of 18 marshmallows (9 x 2 = 18).\n\nSo, the number of marshmallows left in the bag is:\n35 - 18 = 17\n\nNow, let's calculate the number of S'mores each kid can have with the marshmallows left in the bag. Since there are 17 marshmallows left in the bag, each kid can have:\n\n17 / 2 = 8.5 S'mores\n\nTherefore, the correct answer is (A) 8.5 S'mores."
+  },
+  {
+    "id": "gsm8k_822",
+    "response": "Great, let's solve this problem together!\n\nHunter counted 50 cars in the parking lot when he entered class in the morning. Then, during the first break, he counted 20 more cars, so the total number of cars in the parking lot was 50 + 20 = 70 cars.\n\nHowever, when he got out of class for lunch break, he realized that 1/2 the number of cars in the parking lot had gone. This means that 1/2 of 70 cars = 35 cars had gone.\n\nSo, the total number of cars Hunter counted during lunch break was 70 - 35 = 35 cars.\n\nTherefore, the correct answer is (B) 35 cars."
+  },
+  {
+    "id": "gsm8k_825",
+    "response": "Great, let's solve this problem together!\n\nKimberly bought 8 packages of cat food, and each package contained 11 tins. So, she bought a total of 8 x 11 = 88 tins of cat food.\n\nShe also bought 6 packages of dog food, and each package contained 6 tins. So, she bought a total of 6 x 6 = 36 tins of dog food.\n\nTo find out how many more tins of cat food Kimberly bought than dog food, we need to subtract the number of tins of dog food from the number of tins of cat food: 88 - 36 = 52.\n\nTherefore, the correct answer is (B) 52 tins of cat food more than dog food."
+  },
+  {
+    "id": "gsm8k_828",
+    "response": "To solve this problem, we need to calculate the total cost of returning the book and then subtract the refund amount.\n\nFirst, let's calculate the cost of shipping the book:\n\nCost of shipping = $0.35 per pound x 4 pounds = $1.40\n\nNext, let's calculate the cost of shipping per mile:\n\nCost of shipping per mile = $0.08 per mile x 20 miles = $1.60\n\nNow, let's add the cost of shipping per mile to the cost of shipping:\n\nTotal cost of shipping = $1.40 + $1.60 = $2.90\n\nNext, let's subtract the refund amount:\n\nLoss = Total cost of shipping - 75% of purchase price\n= $2.90 - (0.75 x $32)\n= $2.90 - $24\n= -$21.10\n\nTherefore, Milly will lose $21.10 by returning the book. The correct answer is (D) -0.8."
+  },
+  {
+    "id": "gsm8k_836",
+    "response": "To solve this problem, we need to use the information given in the question to find the time it takes for the turtles to travel across the highway.\n\nWe are told that it takes 3 kangaroos traveling at the same speed a total of 18 hours to travel across the highway. This means that each kangaroo takes 6 hours to travel across the highway (18 hours / 3 kangaroos).\n\nNow, we are given that four turtles are traveling at half the speed of a kangaroo. This means that each turtle takes twice as long to travel a certain distance as a kangaroo does. So, if it takes 6 hours for a kangaroo to travel across the highway, it will take 12 hours for a turtle to travel across the same distance (2 x 6 = 12).\n\nTherefore, the answer is (C) 2 hours."
+  },
+  {
+    "id": "gsm8k_837",
+    "response": "Great, let's solve this problem together!\n\nWe know that Jada makes twice as many clay dishes as Rory, so Rory makes 2 × 20 = 40 clay dishes.\n\nWe also know that Rory makes 20 more clay dishes than Kora, so Kora makes 20 dishes.\n\nNow, let's find out how many clay dishes they all make together:\n\nJada makes 2 × 20 = 40 dishes\nRory makes 40 + 20 = 60 dishes\nKora makes 20 dishes\n\nTogether, they make 40 + 60 + 20 = 120 clay dishes.\n\nSo, the correct answer is (A) 32."
+  },
+  {
+    "id": "gsm8k_839",
+    "response": "Great, let's solve this problem together!\n\nAdam sliced 3 large apples, which can be sliced into 5 pieces each, so he sliced a total of 3 x 5 = 15 pieces of large apples.\n\nHe also sliced 5 small apples, which can be sliced into 3 pieces each, so he sliced a total of 5 x 3 = 15 pieces of small apples.\n\nIn total, Adam sliced 15 + 15 = 30 apple slices.\n\nTherefore, the correct answer is (A) 15 apple slices are left."
+  },
+  {
+    "id": "gsm8k_850",
+    "response": "Great, let's solve this problem together!\n\nThe farmer has 900 eggs and he places them on a tray that holds 30 eggs each. This means he has 900 / 30 = 30 trays of eggs.\n\nNow, he wants to sell each tray for $2.5. So, the total amount of money he will earn is 30 trays x $2.5 = $75.\n\nTherefore, the correct answer is (B) 75."
+  },
+  {
+    "id": "gsm8k_851",
+    "response": "Great, let's solve this problem together!\n\nMr. Smith has 55 goats in Farm X and 45 goats in Farm Y. He sold 10 goats from Farm X, which means he has 55 - 10 = 45 goats left in Farm X.\n\nHe also sold twice as many goats from Farm Y, which means he sold 45 x 2 = 90 goats from Farm Y. So, he has 45 - 90 = -45 goats left in Farm Y.\n\nNow, let's add the number of goats left in each farm to find the total number of goats left in the two farms:\n\nFarm X: 45 goats\nFarm Y: -45 goats\n\nTotal number of goats left in the two farms: 45 + (-45) = 0 goats\n\nTherefore, the correct answer is (A) 43 goats."
+  },
+  {
+    "id": "gsm8k_854",
+    "response": "Great, let's work on this problem together!\n\nTo find out how long it would take to clean one-half of the rooms, we need to first find out how many rooms one-half of the total number of rooms is.\n\nThere are 90 rooms at the KozyInn Motel.\n\nOne-half of 90 is 45 rooms.\n\nSo, it would take 45 minutes to clean one-half of the rooms.\n\nThe correct answer is (A) 45 minutes.\n\nI hope this helps! Let me know if you have any other questions."
+  },
+  {
+    "id": "gsm8k_856",
+    "response": "Great, let's solve this problem together!\n\nFrom the information given, we know:\n\n* My brother's age is three years older than mine, so my brother's age is 3 + 3 = 6 years older than mine.\n* My sister's age is 2 years younger than mine, so my sister's age is 2 + 3 = 5 years younger than mine.\n* My mom's age is one less than three times my brother's age, so my mom's age is 3 × 6 = 18 years older than my brother's age.\n* When you add all our ages, you get 87, so the sum of our ages is 3 + 5 + 18 = 36 years.\n\nNow, let's find my age:\n\nMy age = 36 - 5 = 31 years old.\n\nTherefore, the correct answer is (A) 21 years old."
+  },
+  {
+    "id": "gsm8k_905",
+    "response": "To find the average price Deepa paid per ticket, we need to divide the total amount she spent ($216) by the number of movies she saw (9).\n\n$216 ÷ 9 = $24\n\nTherefore, the correct answer is (A) 27."
+  },
+  {
+    "id": "gsm8k_911",
+    "response": "Great, let's solve this problem together!\n\nWe know that Farmer Brown's farm is 200 acres, and Farmer Smith's farm is 100 acres more than twice that. This means Farmer Smith's farm is 200 + 100 = 300 acres.\n\nSo, the total area of both farms is 200 + 300 = 500 acres.\n\nTherefore, the correct answer is (A) 700 acres."
+  },
+  {
+    "id": "gsm8k_921",
+    "response": "Let's break down the information given in the question:\n\n1. Larry has 3 cats.\n2. Larry has 3 times as many dogs as cats, so he has 3 x 3 = 9 dogs.\n3. Larry has 2 fewer rabbits than dogs, so he has 9 - 2 = 7 rabbits.\n4. Larry has a fish tank with three times the number of fish as rabbits, so he has 3 x 7 = 21 fish.\n5. Larry also has a collection of gerbils that's 1/3 the number of fish he has, so he has 21 / 3 = 7 gerbils.\n\nNow, let's add up the number of pets Larry has:\n\n3 cats + 9 dogs + 7 rabbits + 21 fish + 7 gerbils = 63\n\nTherefore, the correct answer is (A) 63."
+  },
+  {
+    "id": "gsm8k_939",
+    "response": "Great, let's work on this problem together!\n\nSo, John earned $50 per hour and worked for 6 hours, which means he earned a total of $300.\n\nHe also spent $50 on gas, so his total amount of money available for buying pens is $300 - $50 = $250.\n\nHe wants to deposit $100 in the bank, so he has $250 left to spend on pens.\n\nHe buys 5 pencils that cost $10 each, so he spends $50 on pencils.\n\nNow, he has $250 - $50 = $200 left to spend on pens.\n\nHe wants to buy 25 pens, which costs $25 each. So, he can buy 25 pens with the $200 he has left.\n\nTherefore, the correct answer is (A) 25."
+  },
+  {
+    "id": "gsm8k_940",
+    "response": "To solve this problem, we need to find out the total number of letters in the words spelled by Craig after 10 rounds, and then calculate the difference between that number and the total number of letters in the words spelled by Craig's brother.\n\nLet's analyze the problem step by step:\n\n1. Craig spells out 20 words with 15 letters each, so the total number of letters in those words is 20 x 15 = 300 letters.\n2. Craig's brother spells words with a total count of letters 50 more than Craig, so the total number of letters in the words spelled by Craig's brother is 300 + 50 = 350 letters.\n3. After 10 rounds, the total number of letters in the words spelled by Craig is 300, and the total number of letters in the words spelled by Craig's brother is 350.\n4. Therefore, the difference between the total number of letters in the words spelled by Craig and Craig's brother is 350 - 300 = 50 letters.\n\nSo, the correct answer is (B) 50."
+  },
+  {
+    "id": "gsm8k_968",
+    "response": "Great, let's solve this problem together!\n\nAccording to the information given, Nani is 8 years old, and his brother is twice his age. So, Nani's brother is 8 x 2 = 16 years old.\n\nAdditionally, Nani's sister is 25% younger than him, which means she is 100% - 25% = 75% of his age. Since Nani is 8 years old, his sister is 75% of 8 = 6 years old.\n\nNow, let's find the total age of all three family members: Nani (8), his brother (16), and his sister (6). Therefore, the total age of the family is 8 + 16 + 6 = 30 years old.\n\nSo, the correct answer is (B) 30."
+  },
+  {
+    "id": "gsm8k_969",
+    "response": "To determine how long it will take Andy to string all of the racquets, we need to calculate the total time it will take him to string each type of racquet and then add those times together.\n\n1. Synthetic gut racquets: Andy will spend 15 minutes stringing each of the 3 racquets with synthetic gut, so the total time for these racquets is 3 x 15 = 45 minutes.\n2. Polyester string racquets: Andy will spend 22 minutes stringing each of the 5 racquets with polyester string, so the total time for these racquets is 5 x 22 = 110 minutes.\n3. Hybrid set racquets: Andy will spend 18 minutes stringing each of the 4 racquets with a hybrid set, so the total time for these racquets is 4 x 18 = 72 minutes.\n\nAdding the total time for each type of racquet, we get: 45 + 110 + 72 = 227 minutes.\n\nTherefore, the correct answer is (D) 227 minutes."
+  },
+  {
+    "id": "gsm8k_971",
+    "response": "Great, let's solve this problem together!\n\nWe are given that Zeke's baseball team has 7 more players than Carlton's team. This means that Zeke's team has a total of 13 + 7 = 20 players.\n\nSo, the combined total of players in both teams is 20 + 13 = 33 players.\n\nTherefore, the correct answer is (D) 33."
+  },
+  {
+    "id": "gsm8k_972",
+    "response": "To determine the number of wooden slats Robert will need, we need to calculate the total length of the fence he is building. The question states that the fence is 15 feet long, so the total length of the fence is:\n\n15 feet = 15 x 1 = 15 slats\n\nNext, we need to calculate the total width of the fence. The question states that the fence is 10 feet wide, so the total width of the fence is:\n\n10 feet = 10 x 1 = 10 slats\n\nNow, we need to find the total number of slats Robert will need by multiplying the total length and width of the fence:\n\n15 slats x 10 slats = 150 slats\n\nTherefore, the correct answer is (A) 100."
+  },
+  {
+    "id": "gsm8k_984",
+    "response": "Great, let's solve this problem together!\n\nWe are given that Charlie's boots are five times the size of Sophie's. This means that if Sophie wears size five boots, Charlie wears size 25 boots (5 x 5 = 25).\n\nTo find the average size of shoe worn by the two, we need to find the sum of their shoe sizes and divide it by 2.\n\nThe sum of Sophie's and Charlie's shoe sizes is:\n\nSophie's size = 5\nCharlie's size = 25\nSum = 5 + 25 = 30\n\nNow, let's divide the sum by 2 to find the average size:\n\nAverage size = 30 / 2 = 15\n\nTherefore, the correct answer is (D) 15."
+  },
+  {
+    "id": "gsm8k_988",
+    "response": "Great, let's solve this problem together!\n\nWe are given that Artemis and her father buy a 30-pound bag of soil. Each rose needs 1 pound of soil, so they can plant 30 roses.\n\nNext, we are told that each carnation needs 1.5 pounds of soil. Since they are planting 10 carnations, they can plant 10 x 1.5 = 15 pounds of soil.\n\nFinally, we are told that each sunflower needs 3 pounds of soil. Since they are planting 4 sunflowers, they can plant 4 x 3 = 12 pounds of soil.\n\nAdding up the total amount of soil needed for each type of flower, we get:\n\n30 + 15 + 12 = 67 pounds of soil.\n\nSince they only have a 30-pound bag of soil, they cannot plant more than 30 roses. Therefore, the correct answer is (A) 6 roses."
+  },
+  {
+    "id": "gsm8k_1001",
+    "response": "To solve this problem, we need to calculate the total time Doctor Jones spends on rounds and appointments, and then subtract that from the total time he spends at the clinic.\n\nDoctor Jones spends 20 minutes per inpatient on rounds, so for 9 inpatients, he spends 9 x 20 = 180 minutes on rounds.\n\nHe also spends 30 minutes per appointment, so for 10 appointments, he spends 10 x 30 = 300 minutes on appointments.\n\nAdding the time spent on rounds and appointments, we get: 180 + 300 = 480 minutes.\n\nTherefore, Doctor Jones will have 480 - 9 = 391 hours left to update his records.\n\nSo, the correct answer is (D) 480."
+  },
+  {
+    "id": "gsm8k_1005",
+    "response": "Great, let's solve this problem together!\n\nWe know that Peter has 4 boxes with the same number of chocolate bars in each, and Martha has 7 boxes with the same number of chocolate bars in each. Let's call the number of chocolate bars in each box for Peter \"x\".\n\nWe also know that Peter has a total of 64 chocolate bars, and Martha has a total of 56 chocolate bars. So, we can set up the equation:\n\n4x = 64\n7x = 56\n\nNow, we can solve for \"x\" by dividing both sides of the equation by 4:\n\nx = 64 / 4\nx = 16\n\nSo, Peter has 16 chocolate bars in each box.\n\nNow, let's compare this to Martha's total of 56 chocolate bars. Since Martha has 7 boxes, we can calculate her total as:\n\n7x = 56\nx = 8\n\nSo, Martha has 8 chocolate bars in each box.\n\nNow, let's answer the question: How many more chocolate bars does Peter have in each box than Martha?\n\nWe know that Peter has 16 chocolate bars in each box, and Martha has 8 chocolate bars in each box. To find the difference, we can subtract Martha's total from Peter's total:\n\n16 - 8 = 8\n\nSo, Peter has 8 more chocolate bars in each box than Martha.\n\nTherefore, the correct answer is (D) 8."
+  },
+  {
+    "id": "gsm8k_1010",
+    "response": "To solve this problem, we need to use the information given in the question to find the total number of male students and then subtract that number from the total number of students to find the number of female students.\n\nFirst, let's find the number of male students:\n\nHalf of the students are over 16 years old, so the number of male students over 16 years old is 3000 / 2 = 1500.\n\nOne-fourth of the students over 16 years old are male, so the number of male students over 16 years old is 1500 / 4 = 375.\n\nThe remaining half of the students are under 16 years old, and one-half of the students under 16 are male, so the number of male students under 16 years old is 3000 / 2 = 1500.\n\nNow, let's add the number of male students over 16 years old and the number of male students under 16 years old to find the total number of male students:\n\n375 + 1500 = 1875\n\nNow, we can subtract the number of male students from the total number of students to find the number of female students:\n\n3000 - 1875 = 1125\n\nTherefore, the answer is (C) 112."
+  },
+  {
+    "id": "gsm8k_1025",
+    "response": "Great, let's solve this problem together!\n\nSuzanne sold 80 cookies for $1 each, so she earned $80.\nShe also sold 60 cupcakes for $4 each, so she earned $60.\nIn total, Suzanne earned $80 + $60 = $140.\n\nShe gave her two sisters $10 each, so she spent $20.\nNow, let's calculate how much money Suzanne has left from her earnings:\n$140 - $20 = $120.\n\nTherefore, the correct answer is (A) 100."
+  },
+  {
+    "id": "gsm8k_1029",
+    "response": "To determine how much Tom has to pay per month for the bedroom set, we need to calculate the total cost of the bedroom set and then find the monthly payment amount.\n\nFirst, let's calculate the total cost of the bedroom set:\n\n$3000 (original cost of the bedroom set) + $1000 (amount paid from selling the old bedroom) = $4000\n\nNow, let's find the monthly payment amount:\n\n$4000 / 10% (monthly interest rate) = $400\n\nTherefore, Tom has to pay $400 per month for the bedroom set. The correct answer is (A) 200."
+  },
+  {
+    "id": "gsm8k_1033",
+    "response": "Great, let's solve this problem together!\n\nWe know that it takes 75 large jelly beans to fill Grandpa up. So, if he can eat twice as many medium-sized beans as large beans, then he can eat 75 x 2 = 150 medium-sized beans.\n\nWe also know that eating 3 small beans is the same as eating 1 medium-sized bean. So, if Grandpa can eat 150 medium-sized beans, he can also eat 150 / 3 = 50 small beans.\n\nTherefore, the correct answer is (C) 112 small beans.\n\nI hope this helps! Let me know if you have any other questions."
+  },
+  {
+    "id": "gsm8k_1046",
+    "response": "Great, let's solve this problem together!\n\nFrom the problem statement, we know that three people divided an amount of $1920. Let's call the share of the first person x.\n\nWe are also given that the second person took $80 more than the first person, so the share of the second person is x + 80.\n\nFinally, we are told that the third person took twice what the second person took, so the share of the third person is 2(x + 80).\n\nNow, we need to find the value of x that satisfies all these conditions. Let's start by solving for x:\n\nx = 1920 / 3\n\nx = 640\n\nNow, let's find the share of the second person:\n\nx + 80 = 640 + 80\n\nx + 80 = 720\n\nx = 720 / 3\n\nx = 240\n\nNow, let's find the share of the third person:\n\n2(x + 80) = 2(240 + 80)\n\n2(320) = 720\n\nx + 80 = 720\n\nx = 640\n\nSo, the share of the first person is $640.\n\nTherefore, the correct answer is (A) 1920."
+  },
+  {
+    "id": "gsm8k_1047",
+    "response": "To solve this problem, we need to find out how many days the painters worked for. We are told that they worked for 3/8ths of a day every day for 3 weeks, which means they worked for 3 x 3/8 = 9 days.\n\nNow, we need to find out how many hours each painter worked in total. Since they worked for 9 days, and there are 4 painters, each painter worked for 9 x 4 = 36 hours.\n\nTherefore, the correct answer is (A) 47.25 hours."
+  },
+  {
+    "id": "gsm8k_1059",
+    "response": "Great, let's solve this problem together!\n\nWe know that two years ago, Leo had 100 stickers in his collection. Last year, he collected 50 stickers. This year, he collected twice the number of stickers as the previous year.\n\nSo, this year Leo collected 50 x 2 = 100 stickers.\n\nTherefore, the correct answer is (D) 100 stickers."
+  },
+  {
+    "id": "gsm8k_1063",
+    "response": "To find the total cost of the doctor's visit, we need to calculate the cost of each item and then add them up.\n\n1. Cast: $200\n2. Doctor's visit: $300/hour x 2 hours = $600\n3. Painkillers: $4/pill x 30 pills = $120\n4. Parking: $6/hour x 2 hours = $12\n\nTotal cost = Cast + Doctor's visit + Painkillers + Parking\n= $200 + $600 + $120 + $12\n= $992\n\nTherefore, the correct answer is (A) 840."
+  },
+  {
+    "id": "gsm8k_1067",
+    "response": "Great, let's solve this problem together!\n\nWe know that the glee club ordered 20 pizzas and ate 70% of them, which means they ate 70% of 20 pizzas = 14 pizzas.\n\nNow, the football team ordered twice as many pizzas, which means they ordered 2 x 20 = 40 pizzas. And they ate 80% of them, which means they ate 80% of 40 pizzas = 32 pizzas.\n\nSo, the total number of pizzas left is 20 - 14 = 6 pizzas.\n\nTherefore, the correct answer is (A) 14 pizzas."
+  },
+  {
+    "id": "gsm8k_1068",
+    "response": "To determine the total amount Anthony spends on postage, we need to calculate the cost of mailing each type of coupon and then add the costs together.\n\nSmall coupons:\n700 small coupons x 5 cents = $35\n\nBig coupons:\nDouble the number of small coupons = 700 x 2 = 1400 big coupons\n1400 big coupons x 15 cents = $2100\n\nTotal postage cost = $35 + $2100 = $2135\n\nTherefore, the correct answer is (B) 10500."
+  },
+  {
+    "id": "gsm8k_1077",
+    "response": "To find out how much money Terry makes in total, we need to calculate the total cost of the milkshakes, burger platters, and sodas he sells.\n\nThe cost of the milkshakes is 6 x $5.50 = $33.\nThe cost of the burger platters is 9 x $11 = $99.\nThe cost of the sodas is 20 x $1.50 = $30.\n\nTherefore, the total cost of the items Terry sells is $33 + $99 + $30 = $162.\n\nSo, the correct answer is (B) 172."
+  },
+  {
+    "id": "gsm8k_1085",
+    "response": "Great, let's work through this problem together!\n\nSo, Sam and Harry have 100 feet of fence between them, and they agree to split it with Harry getting 60 feet more than Sam. This means that Harry will get 60 + 100 = 160 feet of fence.\n\nNow, we need to find out how much is left over for Sam. We can do this by subtracting the amount of fence that Harry got from the total amount of fence they had:\n\n100 - 160 = -60 feet\n\nSo, there is -60 feet of fence left over for Sam. The correct answer is (C) 20."
+  },
+  {
+    "id": "gsm8k_1092",
+    "response": "Great, let's solve this problem together!\n\nTo find out how much the orchard earned from selling 2000 apples at $5 per bag, we need to multiply the number of apples by the price per bag.\n\n2000 apples x $5 per bag = $10,000\n\nTherefore, the correct answer is (A) $5."
+  },
+  {
+    "id": "gsm8k_1093",
+    "response": "To solve this problem, we need to use the information given in the question to find out how much meat was left after the T-Rex ate half of the triceratops.\n\nThe T-Rex ate half of the triceratops, which means it ate 50% of the total meat. Since the triceratops had 270 kilograms of meat before the T-Rex ate, the amount of meat left after the T-Rex ate half of it is:\n\n270 kg x 0.5 = 135 kg\n\nNow, a pack of velociraptors scavenged half of what was left, which means they ate 50% of the remaining 135 kilograms of meat. The amount of meat left after the velociraptors ate is:\n\n135 kg x 0.5 = 67.5 kg\n\nFinally, a group of lazy Allosaurus gulped down the last 67.5 kilograms of meat. The total amount of meat left after the Allosaurus ate is:\n\n67.5 kg + 270 kg = 337.5 kg\n\nTherefore, the correct answer is (C) 472.5 kilograms of meat were on the triceratops before the T-Rex ate."
+  },
+  {
+    "id": "gsm8k_1108",
+    "response": "Great, let's solve this problem together!\n\nTo find out how many girls are in the school, we need to find 40% of the total population.\n\nIf 40% of the population is made up of 240 boys, then the total population is:\n\n240 boys / 0.4 = 600 students\n\nSo, there are 600 students in the school, including both boys and girls.\n\nTherefore, the correct answer is (C) 144."
+  },
+  {
+    "id": "gsm8k_1111",
+    "response": "To determine how many more miles Soledad must hike per day to complete her journey on time, we need to calculate the total distance she needs to hike and compare it to the distance she plans to hike each day.\n\nSoledad needs to hike 9,300 miles in total. If she plans to hike twice a day, covering 125 miles each time, she will hike a total of 2 x 125 = 250 miles per day.\n\nTherefore, Soledad must hike an additional 9,300 - 250 = 9,050 miles per day to complete her journey on time.\n\nThe correct answer is (A) 45 miles per day."
+  },
+  {
+    "id": "gsm8k_1113",
+    "response": "Great, let's solve this problem together!\n\nPierre, Paul, and Jacques bought 12 kg of apples, which means they have a total of 12 kg.\n\nPeter wants a quarter of that, which means he wants 12 kg / 4 = 3 kg.\n\nPaul wants 1/3 of that, which means he wants 12 kg / 3 = 4 kg.\n\nSo, James will have 12 kg - 3 kg - 4 kg = 5 kg left.\n\nTherefore, the correct answer is (A) 5 kg."
+  },
+  {
+    "id": "gsm8k_1117",
+    "response": "Great, let's solve this problem together!\n\nLast year, there were 50 students enrolled in the calligraphy class. This year, there was a 20% increase in enrollment. To find out how many students are enrolled this year in the calligraphy class, we need to calculate 20% of the original number of students.\n\n20% of 50 students is equal to 0.2 x 50 = 10 students.\n\nSo, this year there are 10 + 50 = 60 students enrolled in the calligraphy class.\n\nThe correct answer is (B) 60 students."
+  },
+  {
+    "id": "gsm8k_1121",
+    "response": "To solve this problem, we need to find the total distance John drives to visit his parents each month.\n\nWe know that it takes John 2 hours to drive to his parents' place at a speed of 70 mph. Therefore, the distance he covers in one hour is:\n\nDistance = Speed x Time = 70 mph x 2 hours = 140 miles\n\nSince John visits his parents twice a month, the total distance he drives in a month is:\n\nTotal Distance = 2 x 140 miles = 280 miles\n\nTherefore, the correct answer is (A) 140 miles."
+  },
+  {
+    "id": "gsm8k_1124",
+    "response": "Great, let's solve this problem together!\n\nWe know that Elijah's dog is one-fourth the weight of Kory's dog, so Elijah's dog weighs 60 / 4 = 15 pounds.\n\nWe also know that Elijah has another dog that is half the weight of Kory's dog, so Elijah's second dog weighs 60 / 2 = 30 pounds.\n\nSo, the total weight of Elijah's two dogs is 15 + 30 = 45 pounds.\n\nNow, let's find the total weight of Elijah and Kory's dogs together. We know that Kory's dog weighs 60 pounds, so the total weight of Elijah and Kory's dogs is 45 + 60 = 105 pounds.\n\nTherefore, the correct answer is (C) 105 pounds."
+  },
+  {
+    "id": "gsm8k_1128",
+    "response": "To solve this problem, we need to use the information provided in the question to find out how fast the faster car goes.\n\nWe know that the faster car is 1.25 times faster than the 2nd fastest car. This means that if the 2nd fastest car can go x miles per hour, the faster car can go x + 1.25 miles per hour.\n\nWe also know that the 2nd fastest car is 5 times faster than the average car. This means that the average car can go x miles per hour, and the 2nd fastest car can go 5x miles per hour.\n\nFinally, we know that the average car can go 120 miles per hour.\n\nSo, we can set up the equation:\n\nx + 1.25 = 5x\n\nSolving for x, we get:\n\nx = 450\n\nTherefore, the faster car goes 450 + 1.25 = 451 miles per hour.\n\nThe correct answer is (A) 750."
+  },
+  {
+    "id": "gsm8k_1131",
+    "response": "Great, let's solve this problem together!\n\nTo find the total weight of the crayons and boxes, we need to calculate the weight of each box and then multiply it by the number of boxes.\n\nFirst, let's calculate the weight of each box:\n\n8 ounces / 16 ounces per pound = 0.5 pounds per box\n\nNow, let's calculate the total weight of the crayons and boxes:\n\n200 crayons x 1 ounce per crayon = 200 ounces\n\n200 ounces / 16 ounces per pound = 12.5 pounds\n\nSo, the total weight of the crayons and boxes is 12.5 pounds.\n\nTherefore, the correct answer is (A) 25."
+  },
+  {
+    "id": "gsm8k_1136",
+    "response": "Great, let's solve this problem together!\n\nTo find the total number of blue birds in the trees, we need to add the number of blue birds in each tree.\n\nTree 1 had 7 blue birds, Tree 2 had 4 blue birds, and Tree 3 had 3 blue birds.\n\nSo, the total number of blue birds in the trees is:\n7 + 4 + 3 = 14\n\nTherefore, the correct answer is (A) 32 blue birds."
+  },
+  {
+    "id": "gsm8k_1138",
+    "response": "To solve this problem, we need to find out how many ounces of water Donny poured from the unknown temperature bottle.\n\nWe know that Donny poured 4 ounces of water from the 33-degree mug into his water bottle, and he also poured 1 ounce from the other bottle. So, the total amount of water he poured is 4 + 1 = 5 ounces.\n\nSince Donny is now able to drink the water, the temperature of the second bottle must be greater than or equal to 40 degrees.\n\nLet's convert the temperature of the second bottle from degrees Celsius to degrees Fahrenheit:\n\n33°C = 91°F\n\nNow, we can see that the temperature of the second bottle is greater than or equal to 91°F, which is greater than 40°F. Therefore, the correct answer is (B) 41.15°F."
+  },
+  {
+    "id": "gsm8k_1142",
+    "response": "Great, let's solve this problem together!\n\nIf Chester eats 3 eggs a day for 30 days, he will eat a total of 3 x 30 = 90 eggs.\n\nThen, if he increases his egg consumption to 5 eggs a day for 30 days, he will eat a total of 5 x 30 = 150 eggs.\n\nSo, in total, Chester will eat 90 + 150 = 240 eggs for 60 days.\n\nTherefore, the correct answer is (A) 4500."
+  },
+  {
+    "id": "gsm8k_1143",
+    "response": "Great, let's solve this problem together!\n\nWe know that there are 17 green jelly beans and twice as many red jelly beans, which means there are 34 red jelly beans.\n\nThe total number of jelly beans is 60, so the number of blue jelly beans must be 60 - 34 = 26.\n\nTherefore, the correct answer is (A) 41."
+  },
+  {
+    "id": "gsm8k_1147",
+    "response": "To solve this problem, we need to calculate the total cost of the rocks that Adam bought and the total revenue he earned from selling them.\n\nFirst, let's calculate the total cost of the rocks:\n\n$100 / $5 = 20 rocks\n\nNext, let's calculate the total revenue from selling the rocks:\n\n20 rocks x $7 per rock = $140\n\nNow, let's calculate the percentage of the inventory that Adam sold:\n\n60% of 20 rocks = 12 rocks\n\nFinally, let's calculate the amount of money Adam lost:\n\n$140 - $12 = $128\n\nTherefore, the correct answer is (A) 60."
+  },
+  {
+    "id": "gsm8k_1150",
+    "response": "To solve this problem, we need to calculate the total amount of food Jen needs to buy for her 3 fish in May.\n\nEach fish needs $1 worth of food per day, so in May, Jen needs to buy:\n\n3 fish x 30 days in May = 90 fish days\n90 fish days x $1/day = $90\n\nTherefore, the correct answer is (A) 93."
+  },
+  {
+    "id": "gsm8k_1152",
+    "response": "To find the average speed of Sid's travel, we need to divide the total distance traveled by the total time taken:\n\nTotal distance = 110 miles + 140 miles = 250 miles\nTotal time = 2 hours + 3 hours = 5 hours\n\nAverage speed = Total distance / Total time = 250 miles / 5 hours = 50 miles/hour\n\nTherefore, the correct answer is (B) 50 miles/hour."
+  },
+  {
+    "id": "gsm8k_1161",
+    "response": "To solve this problem, we need to find out how many reports the IRS received on Wednesday.\n\nWe know that the IRS received a total of 5168 tax reports last week. On Monday and Tuesday, they received a total of 1907 reports. On Thursday and Friday, they received a total of 2136 reports.\n\nSo, the total number of reports received by the IRS last week is:\n5168 + 1907 + 2136 = 9241\n\nSince we know that the total number of reports received last week is 9241, and we are asked how many reports were received on Wednesday, we can deduce that the number of reports received on Wednesday is:\n9241 - (Monday + Tuesday) = 9241 - 3976 = 5265\n\nTherefore, the correct answer is (A) 3363."
+  },
+  {
+    "id": "gsm8k_1163",
+    "response": "To solve this problem, we need to find out how old Geb is.\n\nWe are given that Geb is 10 less than half the age of Haley. This means that Geb's age is half of Haley's age minus 10.\n\nHaley is 26 years old, so Geb's age is:\n\nHalf of Haley's age = 26 / 2 = 13\n\nSubtracting 10 from 13 gives us the age of Geb:\n\nGeb's age = 13 - 10 = 3 years old.\n\nTherefore, the correct answer is (C) 3 years old."
+  },
+  {
+    "id": "gsm8k_1169",
+    "response": "Great, let's solve this problem together!\n\nWe are given the information that the red rope was four times the length of the blue rope, and the blue rope was 7 centimeters shorter than the yellow rope. We also know that the three ropes had a combined length of 37 centimeters.\n\nLet's start by using the information that the blue rope is 7 centimeters shorter than the yellow rope. Let's call the length of the yellow rope \"Y\". Then, the length of the blue rope is \"Y - 7\".\n\nWe are also given that the red rope is four times the length of the blue rope. So, the length of the red rope is \"4Y - 28\".\n\nNow, we are asked to find the length of the red rope in centimeters. We can convert the length of the ropes to centimeters by multiplying by 10 (since there are 10 centimeters in 1 meter).\n\nSo, the length of the red rope in centimeters is:\n\n4Y - 28 = 4(10Y - 70) = 40Y - 160\n\nWe are also given that the three ropes had a combined length of 37 centimeters. So, we can set up the equation:\n\n40Y - 160 = 37\n\nSolving for Y, we get:\n\nY = 5.33\n\nTherefore, the length of the red rope in centimeters is:\n\n4Y - 28 = 4(10(5.33)) - 160 = 20.66\n\nSo, the correct answer is (B)"
+  },
+  {
+    "id": "gsm8k_1171",
+    "response": "Great, let's solve this problem together!\n\nWe know that the mural has equal amounts of red, white, and purple paint in it. So, if the mural used 12 pints of paint in all, then the number of pints of red paint used is equal to the number of pints of white paint used, which is equal to the number of pints of purple paint used.\n\nWe also know that half the mural is yellow, so the number of pints of yellow paint used is half of 12 pints, which is 6 pints.\n\nNow, let's find out how many pints of red paint were used:\n\nRed paint = (Total paint used) - (Yellow paint used)\n= 12 pints - 6 pints\n= 6 pints\n\nTherefore, the answer is (B) 2 pints of red paint."
+  },
+  {
+    "id": "gsm8k_1175",
+    "response": "Great, let's work through this problem together!\n\nThomas withdraws $1000 in 20 dollar bills from the bank account.\n\nLoss of 10 bills:\nThomas loses 10 bills while getting home, so he has $1000 - 10 = $990 remaining.\n\nPayment of half of the remaining bills:\nThomas uses half of the remaining bills to pay for a bill, so he pays $990 / 2 = $495.\n\nTripling of money:\nThomas triples his money, so he now has $495 x 3 = $1485.\n\nConversion to 5 dollar bills:\nThomas converts all his bills to 5 dollar bills, so he has $1485 / 5 = 294 5 dollar bills.\n\nTherefore, the correct answer is (C) 294."
+  },
+  {
+    "id": "gsm8k_1180",
+    "response": "To find the percentage of James' teeth that the dentist fixes, we need to first determine the total number of teeth that the dentist drills and caps.\n\nThe question states that the dentist drills 4 teeth and caps 7 more teeth than he drills. So, the total number of teeth that the dentist drills is 4 + 7 = 11 teeth.\n\nSince James has 30 teeth, the percentage of his teeth that the dentist fixes is:\n\n(11 / 30) x 100% = 36.67%\n\nTherefore, the correct answer is (D) 36.67%."
+  },
+  {
+    "id": "gsm8k_1192",
+    "response": "Great, let's work through this problem together!\n\nMay's hair started at 10 inches and ended at 8 inches, so the total length of her hair before the cut and color was 10 + 8 = 18 inches.\n\nThe cost of the color is $40, and the cost per inch of haircut is $30. Therefore, the total cost of the cut and color can be calculated as follows:\n\nTotal cost = Cost of color + Cost of haircut\n= $40 + ($30 x Total length of hair)\n= $40 + ($30 x 18)\n= $40 + $540\n= $580\n\nSo, the answer is (D) $580.\n\nI hope this helps! Let me know if you have any other questions."
+  },
+  {
+    "id": "gsm8k_1198",
+    "response": "To solve this problem, we need to find out how much John spends on each type of liquor and then add them up.\n\nJohn buys 10 bottles of scotch for a total cost of $600, so he spends $60 per bottle.\nHe also buys twice as many bottles of cognac, which costs 50% more per bottle than the scotch. So, he spends $60 x 2 = $120 per bottle of cognac.\n\nSince he buys twice as many bottles of cognac as he does scotch, he buys a total of 20 bottles of cognac.\n\nTherefore, the total cost of everything John buys is:\n$60 x 10 = $600 (scotch) + $120 x 2 = $2400 (cognac) = $2600\n\nSo, the correct answer is (C) $2400."
+  },
+  {
+    "id": "gsm8k_1202",
+    "response": "Great, let's solve this problem together!\n\nWe are given that there are 66 fish in the fish tank, and one-third of them have red stripes. This means that 20 fish (2/3 x 66) have red stripes.\n\nAdditionally, 5/11 of the remaining fish have blue stripes. This means that 5/11 x 66 = 33 fish have blue stripes.\n\nSo, the total number of fish with red and blue stripes is 20 + 33 = 53 fish.\n\nTherefore, the correct answer is (A) 21."
+  },
+  {
+    "id": "gsm8k_1203",
+    "response": "Great, let's solve this problem together!\n\nAmy had two eyeshadow palettes with four colors each, so she had a total of 8 colors from the palettes.\n\nThen, her sister steals one of the palettes, so Amy has 8 - 1 = 7 colors left from the remaining palette.\n\nAmy also uses up half of the colors from one makeup set, which has 6 colors. So, she uses 6/2 = 3 colors from the makeup set.\n\nNow, let's calculate the total number of eyeshadow colors Amy has left:\n\n7 + 3 = 10 colors left\n\nTherefore, the correct answer is (A) 19."
+  },
+  {
+    "id": "gsm8k_1206",
+    "response": "To solve this problem, we need to find out how many miles the last dog needs to walk based on the total miles the other dogs need to walk.\n\nThe total miles the dogs need to walk per day is 3 miles per dog, so the total miles needed is 4 dogs x 3 miles = 12 miles.\n\nSince there are 4 dogs in total, the last dog needs to walk 12 miles / 4 dogs = 3 miles per day.\n\nTherefore, the correct answer is (C) 4 miles."
+  },
+  {
+    "id": "gsm8k_1222",
+    "response": "To determine the amount of secret seasoning Aiden will need to make 80 meatballs, we need to calculate the amount of seasoning required per meatball.\n\nSince Aiden adds two tablespoons of seasoning for every pound of ground beef he uses, and he gets sixteen meatballs from each pound of meat, we can calculate the amount of seasoning per meatball as follows:\n\n2 tablespoons / 1 pound = 0.025 tablespoons per meatball\n\nNow, let's find out how many meatballs Aiden will make:\n\n80 meatballs / 16 meatballs per pound = 5 pounds of meat\n\nSince Aiden adds two tablespoons of seasoning for every pound of ground beef he uses, we can calculate the total amount of seasoning he will need as follows:\n\n5 pounds x 0.025 tablespoons per meatball = 0.125 tablespoons\n\nTherefore, the correct answer is (A) 624."
+  },
+  {
+    "id": "gsm8k_1223",
+    "response": "To determine the amount of fabric Luke should buy, we need to multiply the total width of the windows by 2.\n\nThe total width of the windows is 5 windows x 35 inches/window = 175 inches.\n\nTherefore, Luke should buy fabric equal to 2 times 175 inches = 350 inches.\n\nSo, the correct answer is (A) 350 inches."
+  },
+  {
+    "id": "gsm8k_1231",
+    "response": "To solve this problem, we need to calculate the total amount of money Charlie will make for the day by multiplying the number of lessons he gives at his standard rate and the amount he reduces his rate by for each lesson he gives to a veteran.\n\nCharlie has 4 1-hour lessons at his standard rate, so he will make $80 x 4 = $320 for those lessons.\n\nHe also has 2 1-hour lessons with a veteran, so he will make $80 x 2 = $160 for those lessons, minus 25% of $160 = $120.\n\nTherefore, the total amount of money Charlie will make for the day is $320 + $120 = $440.\n\nThe correct answer is (D) $440."
+  },
+  {
+    "id": "gsm8k_1232",
+    "response": "To find Sally's mean score, we need to add up all her scores and divide by the number of quizzes she took.\n\nThe scores Sally received are:\n50, 80, 80, 60, 40, 90, 100, 70, and 60\n\nAdding up all these scores gives us:\n50 + 80 + 80 + 60 + 40 + 90 + 100 + 70 + 60 = 690\n\nSince Sally took 9 quizzes, we divide the total score by 9 to find her mean score:\n690 / 9 = 76.67\n\nTherefore, the correct answer is (A) 70."
+  },
+  {
+    "id": "gsm8k_1252",
+    "response": "Great, let's analyze the problem and find the correct answer!\n\nAccording to the problem, it takes John 5 minutes to get to the first side of the Rubik's cube. The second and third sides each take twice that long, so it takes 10 minutes to get to the second side and 20 minutes to get to the third side.\n\nThe last 2 sides each take half as long as the first side, so it takes 5 minutes to get to the fourth side and 2.5 minutes to get to the fifth side.\n\nSince John has already gotten to the first side, it takes a total of 5 + 10 + 20 + 5 + 2.5 = 42.5 minutes to solve the Rubik's cube.\n\nTherefore, the correct answer is (D) 12 minutes."
+  },
+  {
+    "id": "gsm8k_1255",
+    "response": "To determine how much longer it will take for the coat of varnish on 6 paintings with the new varnish to dry as it would with the old varnish, we need to find the difference in time between the new and old varnish.\n\nThe time it takes for the coat of varnish to dry on one painting with the new varnish is 12 minutes, and the time it takes for the coat of varnish to dry on one painting with the old varnish is 7 minutes.\n\nTo find the difference in time, we subtract the time it takes with the old varnish from the time it takes with the new varnish:\n\n12 minutes - 7 minutes = 5 minutes\n\nSo, it will take 5 minutes longer for the coat of varnish on 6 paintings with the new varnish to dry as it would with the old varnish.\n\nTherefore, the correct answer is (A) 54 minutes."
+  },
+  {
+    "id": "gsm8k_1256",
+    "response": "Great, let's work through this problem together!\n\nCrista has 20 plants, and 4 of them need half of a cup of water each day. That means 4 x 0.5 = 2 cups of water are needed for those plants.\n\nThen, 8 plants need 1 cup of water each day. That means 8 x 1 = 8 cups of water are needed for those plants.\n\nFinally, the remaining plants need a quarter of a cup of water each day. That means 20 - 8 = 12 plants need 0.25 cups of water each day.\n\nSo, in total, Crista needs 2 + 8 + 0.25 = 11.25 cups of water every day for her plants.\n\nTherefore, the correct answer is (A) 11.25 cups of water."
+  },
+  {
+    "id": "gsm8k_1261",
+    "response": "To solve this problem, we need to find out how many batches Jade can upload in one day.\n\nJade wants to upload 210 photos, and she uploads 7 photos in one batch. Therefore, she can upload 210 / 7 = 30 batches in one day.\n\nSince she needs to upload 6 batches each day, she will need to upload all her photos in 30 / 6 = 5 days.\n\nTherefore, the correct answer is (D) 5 days."
+  },
+  {
+    "id": "gsm8k_1262",
+    "response": "To find the total cost of Alicia's dry-cleaning in 5 weeks, we need to calculate the cost of each item and then add them up.\n\nFor the blouses, the cost is $5.00 x 5 = $25.00.\nFor the pants, the cost is $8.00 x 2 = $16.00.\nFor the skirt, the cost is $6.00 x 1 = $6.00.\n\nSo, the total cost of dry-cleaning for Alicia in 5 weeks is $25.00 + $16.00 + $6.00 = $67.00.\n\nTherefore, the correct answer is (C) 235."
+  },
+  {
+    "id": "gsm8k_1278",
+    "response": "To solve this problem, we need to find the average age of Mia and Emma. We are given that Mia is younger than Emma, and Mia is 40 years old. Therefore, Emma is older than Mia by 16 years.\n\nLet's assume that Emma's age is E years. Then, Mia's age is E - 16 years.\n\nThe average age of Mia and Emma is (E + 40) / 2.\n\nSo, the correct answer is (B) 48."
+  },
+  {
+    "id": "gsm8k_1280",
+    "response": "To find the total cost of the place settings, we need to calculate the cost of each item and then multiply it by the number of items Avery needs.\n\nThe cost of each dinner plate is $6.00, so the cost of 12 dinner plates is $6.00 x 12 = $72.00.\n\nThe cost of each bowl is $5.00, so the cost of 12 bowls is $5.00 x 12 = $60.00.\n\nThe cost of each salad plate is $4.00, so the cost of 12 salad plates is $4.00 x 12 = $48.00.\n\nAdding up the costs of all the items, we get: $72.00 + $60.00 + $48.00 = $180.00.\n\nTherefore, the correct answer is (B) 180."
+  },
+  {
+    "id": "gsm8k_1297",
+    "response": "To solve this problem, we need to find out how much Ellen and Lani spent in total.\n\nEllen spent $100 on leggings and $5 on a photo frame, for a total of $105.\nLani spent $30 on sunglasses and $200 on two bathrobes, for a total of $230.\n\nSo, the total amount spent by Ellen and Lani is $105 + $230 = $335.\n\nTherefore, the correct answer is (C) 335."
+  },
+  {
+    "id": "gsm8k_1299",
+    "response": "To solve this problem, we need to calculate the total value of each type of coin and then add them up.\n\nA quarter is worth $0.25, so 32 quarters are worth $8.00.\n\nA dime is worth $0.10, so 95 dimes are worth $9.50.\n\nA nickel is worth $0.05, so 120 nickels are worth $6.00.\n\nFinally, a penny is worth $0.01, so 750 pennies are worth $7.50.\n\nAdding up the values of all the coins, we get:\n\n$8.00 + $9.50 + $6.00 + $7.50 = $31.00\n\nTherefore, the total dollar amount in the jar is $31.00. The correct answer is (A) 31."
+  },
+  {
+    "id": "gsm8k_1305",
+    "response": "To solve this problem, we need to find out how many students Butler High School enrolls. We are told that Butler High School enrolls an average of 3/4 as many students as Norman High School, which means that if Norman High School enrolls x students, Butler High School enrolls x/4 students.\n\nWe are also given that the average enrollment at Norman High School is 4000 students. So, the average enrollment at Butler High School is:\n\nx/4 = 4000\n\nSolving for x, we get:\n\nx = 4000 x 4 = 16000\n\nTherefore, the average enrollment at Butler High School is 16000 students.\n\nNow, we need to find out how much greater the average enrollment at Norman High School is than the average enrollment at Butler High School. We can do this by subtracting the average enrollment at Butler High School from the average enrollment at Norman High School:\n\n4000 - 16000 = -12000\n\nSo, the average enrollment at Norman High School is 12000 students greater than the average enrollment at Butler High School.\n\nTherefore, the correct answer is (A) 3200."
+  },
+  {
+    "id": "gsm8k_1308",
+    "response": "Great, let's solve this problem together!\n\nTo determine how many screws James will have left over, we need to calculate the total number of screws he will use to assemble the 4 tables.\n\nEach table has 4 legs, and each leg needs 2 screws, so the total number of screws needed for all 4 tables is:\n\n4 tables x 4 legs per table x 2 screws per leg = 32 screws\n\nNow, we know that James has 40 screws in total. So, we can subtract the number of screws he will use to assemble the tables from the total number of screws he has:\n\n40 screws - 32 screws = 8 screws\n\nTherefore, James will have 8 screws left over after assembling the 4 tables.\n\nThe correct answer is (A) 80."
+  },
+  {
+    "id": "gsm8k_1316",
+    "response": "To solve this problem, we need to find out how many oranges Ana and Jane will have peeled after an hour.\n\nAna spends 3 minutes peeling an orange, so she will have peeled 3/60 = 1/20 of the oranges in the basket in one hour.\n\nJane spends 4 minutes peeling an orange, so she will have peeled 4/60 = 1/15 of the oranges in the basket in one hour.\n\nTherefore, after one hour, Ana will have peeled 1/20 of the oranges in the basket, while Jane will have peeled 1/15 of the oranges in the basket.\n\nSo, Ana will have peeled 1/20 - 1/15 = 1/15 more oranges than Jane after one hour.\n\nThe correct answer is (C) 5."
+  }
+]

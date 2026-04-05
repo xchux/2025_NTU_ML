@@ -1,0 +1,22 @@
+[project]
+name = "hw9"
+version = "0.1.0"
+description = "2025 spring ML - HW9 Model Merging"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+	"bitsandbytes==0.46.1",
+	"accelerate>=1.1.0",
+	"datasets==3.5.1",
+	"gdown",
+	"numpy",
+	"torch==2.5.1",
+	"torchaudio==2.5.1",
+	"torchvision==0.20.1",
+	"tqdm",
+	"transformers",
+	"wandb",
+	"ipython",
+	"ipykernel",
+]
+
