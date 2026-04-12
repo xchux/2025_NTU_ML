@@ -1,0 +1,18 @@
+[project]
+name = "hw10"
+version = "0.1.0"
+description = "2025 spring ML - HW10 Diffusion"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+	"accelerate",
+	"diffusers==0.33.1",
+	"numpy",
+	"Pillow",
+	"safetensors",
+	"tensorboard",
+	"torch",
+	"torchvision",
+	"tqdm",
+	"transformers==4.36.2",
+]
