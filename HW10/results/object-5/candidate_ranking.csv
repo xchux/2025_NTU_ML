@@ -1,0 +1,76 @@
+candidate_idx,seed,prompt,dino_score,clip_t_score,weighted_score,selected
+19,7045,"studio photo of a <new1> toy figure, centered, clean background",83.4736,16.0146,69.9818,True
+22,7048,"studio photo of a <new1> toy figure, centered, clean background",81.2604,15.7992,68.1682,True
+3,7029,"studio photo of a <new1> toy figure, centered, clean background",80.8889,15.9846,67.908,True
+6,7032,"studio photo of a <new1> toy figure, centered, clean background",80.8525,15.6472,67.8114,True
+2,7028,"studio photo of a <new1> toy figure, centered, clean background",79.7643,16.0231,67.016,True
+23,7049,"studio photo of a <new1> toy figure, centered, clean background",79.0669,16.3832,66.5301,True
+1,7027,"studio photo of a <new1> toy figure, centered, clean background",78.696,16.0678,66.1703,True
+0,7026,"studio photo of a <new1> toy figure, centered, clean background",78.6875,15.4428,66.0386,True
+17,7043,"studio photo of a <new1> toy figure, centered, clean background",78.3093,16.4733,65.9421,True
+10,7036,"studio photo of a <new1> toy figure, centered, clean background",78.0216,15.4413,65.5055,True
+20,7046,"studio photo of a <new1> toy figure, centered, clean background",77.7002,15.9263,65.3454,True
+16,7042,"studio photo of a <new1> toy figure, centered, clean background",77.6898,16.0952,65.3709,True
+5,7031,"studio photo of a <new1> toy figure, centered, clean background",77.4103,16.6413,65.2565,True
+9,7035,"studio photo of a <new1> toy figure, centered, clean background",77.4098,16.9416,65.3162,True
+13,7039,"studio photo of a <new1> toy figure, centered, clean background",77.0961,15.2432,64.7256,True
+14,7040,"studio photo of a <new1> toy figure, centered, clean background",76.6995,17.1282,64.7852,False
+24,7050,"studio photo of a <new1> toy figure, centered, clean background",76.0142,16.1362,64.0386,False
+8,7034,"studio photo of a <new1> toy figure, centered, clean background",75.9824,15.6934,63.9246,False
+25,7051,"studio photo of a <new1> toy figure, centered, clean background",75.5195,15.5906,63.5337,False
+21,7047,"studio photo of a <new1> toy figure, centered, clean background",74.3322,14.9937,62.4645,False
+12,7038,"studio photo of a <new1> toy figure, centered, clean background",74.0434,15.486,62.332,False
+4,7030,"studio photo of a <new1> toy figure, centered, clean background",73.9211,16.5828,62.4534,False
+15,7041,"studio photo of a <new1> toy figure, centered, clean background",73.8628,15.9679,62.2838,False
+18,7044,"studio photo of a <new1> toy figure, centered, clean background",73.7481,13.9004,61.7786,False
+7,7033,"studio photo of a <new1> toy figure, centered, clean background",72.72,16.6216,61.5004,False
+11,7037,"studio photo of a <new1> toy figure, centered, clean background",70.8032,15.1138,59.6653,False
+41,7067,"in the snow, featuring a <new1> toy",49.8441,25.3218,44.9397,False
+68,7094,"in the snow, featuring a <new1> toy",48.4509,24.9564,43.752,False
+40,7066,"in the snow, featuring a <new1> toy",43.0987,23.5687,39.1927,False
+48,7074,"in the snow, featuring a <new1> toy",42.6744,23.7884,38.8972,False
+55,7081,"in the snow, featuring a <new1> toy",42.2206,25.904,38.9573,False
+64,7090,"in the snow, featuring a <new1> toy",42.2163,24.5884,38.6907,False
+27,7053,"in the snow, featuring a <new1> toy",39.7993,23.5266,36.5448,False
+26,7052,"in the snow, featuring a <new1> toy",39.4238,24.5515,36.4494,False
+71,7097,"in the snow, featuring a <new1> toy",39.217,23.7612,36.1259,False
+45,7071,"in the snow, featuring a <new1> toy",39.0007,25.6423,36.329,False
+69,7095,"in the snow, featuring a <new1> toy",36.281,24.2667,33.8781,False
+51,7077,"in the snow, featuring a <new1> toy",36.276,25.2239,34.0656,False
+74,7100,"in the snow, featuring a <new1> toy",36.0559,24.6245,33.7696,False
+67,7093,"in the snow, featuring a <new1> toy",35.9154,24.8871,33.7097,False
+42,7068,"in the snow, featuring a <new1> toy",35.8177,24.4511,33.5444,False
+70,7096,"in the snow, featuring a <new1> toy",35.7689,24.9283,33.6008,False
+63,7089,"in the snow, featuring a <new1> toy",34.8726,25.3781,32.9737,False
+36,7062,"in the snow, featuring a <new1> toy",34.3,22.8469,32.0094,False
+34,7060,"in the snow, featuring a <new1> toy",33.4124,24.0778,31.5455,False
+47,7073,"in the snow, featuring a <new1> toy",32.1134,26.5793,31.0066,False
+60,7086,"in the snow, featuring a <new1> toy",32.0749,23.2886,30.3176,False
+65,7091,"in the snow, featuring a <new1> toy",31.5831,25.993,30.4651,False
+29,7055,"in the snow, featuring a <new1> toy",28.9973,25.5615,28.3102,False
+50,7076,"in the snow, featuring a <new1> toy",27.1422,24.1813,26.55,False
+43,7069,"in the snow, featuring a <new1> toy",26.4733,25.5983,26.2983,False
+44,7070,"in the snow, featuring a <new1> toy",26.4175,25.7477,26.2835,False
+31,7057,"in the snow, featuring a <new1> toy",25.511,23.6449,25.1378,False
+38,7064,"in the snow, featuring a <new1> toy",25.0963,24.3258,24.9422,False
+49,7075,"in the snow, featuring a <new1> toy",24.6503,24.1024,24.5407,False
+59,7085,"in the snow, featuring a <new1> toy",23.2081,25.6055,23.6876,False
+30,7056,"in the snow, featuring a <new1> toy",23.0252,24.1491,23.25,False
+35,7061,"in the snow, featuring a <new1> toy",21.8432,25.4123,22.557,False
+39,7065,"in the snow, featuring a <new1> toy",18.6467,26.099,20.1371,False
+37,7063,"in the snow, featuring a <new1> toy",18.6254,25.9132,20.083,False
+72,7098,"in the snow, featuring a <new1> toy",17.2168,25.0787,18.7892,False
+28,7054,"in the snow, featuring a <new1> toy",16.6096,23.9268,18.073,False
+73,7099,"in the snow, featuring a <new1> toy",13.1613,24.6021,15.4494,False
+54,7080,"in the snow, featuring a <new1> toy",9.6346,26.5772,13.0231,False
+62,7088,"in the snow, featuring a <new1> toy",6.6155,24.3948,10.1714,False
+56,7082,"in the snow, featuring a <new1> toy",5.7191,27.5949,10.0942,False
+53,7079,"in the snow, featuring a <new1> toy",4.6535,27.6736,9.2576,False
+33,7059,"in the snow, featuring a <new1> toy",3.2512,27.6345,8.1279,False
+66,7092,"in the snow, featuring a <new1> toy",2.4013,26.5646,7.234,False
+32,7058,"in the snow, featuring a <new1> toy",2.3997,25.8811,7.096,False
+61,7087,"in the snow, featuring a <new1> toy",1.0893,25.6178,5.995,False
+46,7072,"in the snow, featuring a <new1> toy",0.6365,27.1942,5.9481,False
+57,7083,"in the snow, featuring a <new1> toy",0.4147,26.4067,5.6131,False
+52,7078,"in the snow, featuring a <new1> toy",-2.6935,25.8002,3.0052,False
+58,7084,"in the snow, featuring a <new1> toy",-3.9698,28.4401,2.5122,False

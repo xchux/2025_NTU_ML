@@ -1,0 +1,46 @@
+candidate_idx,seed,prompt,dino_score,clip_t_score,weighted_score,selected
+5,5031,"studio photo of a <new1> backpack, centered, clean background",82.415,19.293,69.7906,True
+11,5037,"studio photo of a <new1> backpack, centered, clean background",80.8003,18.1385,68.2679,True
+3,5029,"studio photo of a <new1> backpack, centered, clean background",80.0652,19.6628,67.9847,True
+2,5028,"studio photo of a <new1> backpack, centered, clean background",79.0293,17.519,66.7272,True
+4,5030,"studio photo of a <new1> backpack, centered, clean background",78.7647,18.8106,66.7738,True
+10,5036,"studio photo of a <new1> backpack, centered, clean background",78.7499,17.0233,66.4046,True
+1,5027,"studio photo of a <new1> backpack, centered, clean background",77.9231,19.7454,66.2875,True
+8,5034,"studio photo of a <new1> backpack, centered, clean background",74.7056,16.4813,63.0607,True
+6,5032,"studio photo of a <new1> backpack, centered, clean background",73.9435,19.8013,63.1151,True
+34,5060,"in the jungle, featuring a <new1> backpack",72.4274,26.7666,63.2952,True
+0,5026,"studio photo of a <new1> backpack, centered, clean background",70.5055,19.0152,60.2075,True
+41,5067,"in the jungle, featuring a <new1> backpack",70.2661,26.966,61.606,True
+9,5035,"studio photo of a <new1> backpack, centered, clean background",69.3209,18.954,59.2475,True
+7,5033,"studio photo of a <new1> backpack, centered, clean background",67.741,17.7049,57.7338,True
+29,5055,"in the jungle, featuring a <new1> backpack",65.4718,26.7659,57.7307,True
+33,5059,"in the jungle, featuring a <new1> backpack",64.9671,27.8648,57.5467,False
+13,5039,"studio photo of a <new1> backpack, centered, clean background",64.624,19.9672,55.6926,False
+44,5070,"in the jungle, featuring a <new1> backpack",64.0288,27.1499,56.653,False
+32,5058,"in the jungle, featuring a <new1> backpack",63.6387,27.7523,56.4614,False
+19,5045,"in the jungle, featuring a <new1> backpack",61.3848,29.1188,54.9316,False
+38,5064,"in the jungle, featuring a <new1> backpack",57.7103,28.3297,51.8342,False
+23,5049,"in the jungle, featuring a <new1> backpack",53.8887,28.7402,48.859,False
+18,5044,"in the jungle, featuring a <new1> backpack",53.7082,29.4932,48.8652,False
+21,5047,"in the jungle, featuring a <new1> backpack",53.6751,26.2486,48.1898,False
+26,5052,"in the jungle, featuring a <new1> backpack",51.906,27.3629,46.9974,False
+12,5038,"studio photo of a <new1> backpack, centered, clean background",51.8602,19.8676,45.4617,False
+36,5062,"in the jungle, featuring a <new1> backpack",50.2917,27.4671,45.7268,False
+14,5040,"studio photo of a <new1> backpack, centered, clean background",43.9227,16.703,38.4788,False
+31,5057,"in the jungle, featuring a <new1> backpack",36.4199,28.1633,34.7686,False
+37,5063,"in the jungle, featuring a <new1> backpack",32.0719,29.1842,31.4944,False
+25,5051,"in the jungle, featuring a <new1> backpack",26.1318,28.0607,26.5176,False
+17,5043,"in the jungle, featuring a <new1> backpack",21.7841,29.0747,23.2422,False
+15,5041,"in the jungle, featuring a <new1> backpack",21.2228,25.47,22.0722,False
+30,5056,"in the jungle, featuring a <new1> backpack",19.0136,25.406,20.2921,False
+35,5061,"in the jungle, featuring a <new1> backpack",18.8667,27.4601,20.5854,False
+42,5068,"in the jungle, featuring a <new1> backpack",16.5663,26.5955,18.5722,False
+28,5054,"in the jungle, featuring a <new1> backpack",15.9638,25.2171,17.8144,False
+39,5065,"in the jungle, featuring a <new1> backpack",15.8751,26.2279,17.9456,False
+40,5066,"in the jungle, featuring a <new1> backpack",15.2424,28.6533,17.9246,False
+22,5048,"in the jungle, featuring a <new1> backpack",13.1677,25.6472,15.6636,False
+43,5069,"in the jungle, featuring a <new1> backpack",11.7154,27.4266,14.8576,False
+16,5042,"in the jungle, featuring a <new1> backpack",11.1124,27.5236,14.3947,False
+20,5046,"in the jungle, featuring a <new1> backpack",10.6428,28.4439,14.203,False
+24,5050,"in the jungle, featuring a <new1> backpack",9.541,25.766,12.786,False
+27,5053,"in the jungle, featuring a <new1> backpack",7.0843,26.6269,10.9928,False

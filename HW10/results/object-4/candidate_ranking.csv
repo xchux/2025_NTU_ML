@@ -1,0 +1,61 @@
+candidate_idx,seed,prompt,dino_score,clip_t_score,weighted_score,selected
+48,6074,"with sunglasses, featuring a <new1> dog",93.9084,20.3453,79.1957,True
+32,6058,"with sunglasses, featuring a <new1> dog",93.1436,20.4622,78.6073,True
+52,6078,"with sunglasses, featuring a <new1> dog",92.3806,19.8797,77.8804,True
+3,6029,"studio photo of a <new1> dog with sunglasses, centered, clean background",92.3531,19.8284,77.8482,True
+41,6067,"with sunglasses, featuring a <new1> dog",91.9787,20.0321,77.5894,True
+8,6034,"studio photo of a <new1> dog with sunglasses, centered, clean background",91.7431,20.88,77.5705,True
+18,6044,"studio photo of a <new1> dog with sunglasses, centered, clean background",90.3832,20.2939,76.3654,True
+15,6041,"studio photo of a <new1> dog with sunglasses, centered, clean background",90.2049,20.0347,76.1709,True
+49,6075,"with sunglasses, featuring a <new1> dog",89.9966,20.5531,76.1079,True
+10,6036,"studio photo of a <new1> dog with sunglasses, centered, clean background",89.9354,19.9125,75.9308,True
+12,6038,"studio photo of a <new1> dog with sunglasses, centered, clean background",89.6493,19.8342,75.6863,True
+54,6080,"with sunglasses, featuring a <new1> dog",88.8447,20.6162,75.199,True
+0,6026,"studio photo of a <new1> dog with sunglasses, centered, clean background",1.3973,21.7308,5.464,True
+1,6027,"studio photo of a <new1> dog with sunglasses, centered, clean background",1.3973,21.7308,5.464,True
+2,6028,"studio photo of a <new1> dog with sunglasses, centered, clean background",1.3973,21.7308,5.464,True
+4,6030,"studio photo of a <new1> dog with sunglasses, centered, clean background",1.3973,21.7308,5.464,False
+5,6031,"studio photo of a <new1> dog with sunglasses, centered, clean background",1.3973,21.7308,5.464,False
+6,6032,"studio photo of a <new1> dog with sunglasses, centered, clean background",1.3973,21.7308,5.464,False
+7,6033,"studio photo of a <new1> dog with sunglasses, centered, clean background",1.3973,21.7308,5.464,False
+9,6035,"studio photo of a <new1> dog with sunglasses, centered, clean background",1.3973,21.7308,5.464,False
+11,6037,"studio photo of a <new1> dog with sunglasses, centered, clean background",1.3973,21.7308,5.464,False
+13,6039,"studio photo of a <new1> dog with sunglasses, centered, clean background",1.3973,21.7308,5.464,False
+14,6040,"studio photo of a <new1> dog with sunglasses, centered, clean background",1.3973,21.7308,5.464,False
+16,6042,"studio photo of a <new1> dog with sunglasses, centered, clean background",1.3973,21.7308,5.464,False
+17,6043,"studio photo of a <new1> dog with sunglasses, centered, clean background",1.3973,21.7308,5.464,False
+19,6045,"studio photo of a <new1> dog with sunglasses, centered, clean background",1.3973,21.7308,5.464,False
+20,6046,"studio photo of a <new1> dog with sunglasses, centered, clean background",1.3973,21.7308,5.464,False
+21,6047,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+22,6048,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+23,6049,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+24,6050,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+25,6051,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+26,6052,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+27,6053,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+28,6054,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+29,6055,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+30,6056,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+31,6057,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+33,6059,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+34,6060,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+35,6061,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+36,6062,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+37,6063,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+38,6064,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+39,6065,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+40,6066,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+42,6068,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+43,6069,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+44,6070,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+45,6071,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+46,6072,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+47,6073,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+50,6076,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+51,6077,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+53,6079,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+55,6081,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+56,6082,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+57,6083,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+58,6084,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False
+59,6085,"with sunglasses, featuring a <new1> dog",1.3973,21.7308,5.464,False

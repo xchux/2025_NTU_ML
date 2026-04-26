@@ -1,0 +1,46 @@
+candidate_idx,seed,prompt,dino_score,clip_t_score,weighted_score,selected
+6,3032,"studio photo of a <new1> cat, centered, clean background",86.8904,19.3204,73.3764,True
+9,3035,"studio photo of a <new1> cat, centered, clean background",86.5195,19.5414,73.1238,True
+0,3026,"studio photo of a <new1> cat, centered, clean background",85.5676,19.3294,72.3199,True
+5,3031,"studio photo of a <new1> cat, centered, clean background",84.968,19.1466,71.8037,True
+23,3049,"on the grass, featuring a <new1> cat",84.1567,25.6077,72.4469,True
+26,3052,"on the grass, featuring a <new1> cat",83.945,25.1724,72.1905,True
+13,3039,"studio photo of a <new1> cat, centered, clean background",83.7956,19.2772,70.8919,True
+39,3065,"on the grass, featuring a <new1> cat",82.0499,26.4318,70.9263,True
+7,3033,"studio photo of a <new1> cat, centered, clean background",81.9586,18.2654,69.22,True
+17,3043,"on the grass, featuring a <new1> cat",81.2348,24.2504,69.8379,True
+10,3036,"studio photo of a <new1> cat, centered, clean background",80.7324,19.7481,68.5355,True
+3,3029,"studio photo of a <new1> cat, centered, clean background",80.4108,19.1887,68.1664,True
+1,3027,"studio photo of a <new1> cat, centered, clean background",79.9889,18.6726,67.7256,True
+11,3037,"studio photo of a <new1> cat, centered, clean background",79.3438,19.0509,67.2852,True
+14,3040,"studio photo of a <new1> cat, centered, clean background",78.7216,18.2195,66.6212,True
+16,3042,"on the grass, featuring a <new1> cat",78.6629,25.223,67.975,False
+18,3044,"on the grass, featuring a <new1> cat",78.4886,27.1472,68.2203,False
+12,3038,"studio photo of a <new1> cat, centered, clean background",78.15,19.6563,66.4513,False
+28,3054,"on the grass, featuring a <new1> cat",78.0776,25.8474,67.6315,False
+4,3030,"studio photo of a <new1> cat, centered, clean background",77.8743,18.3793,65.9753,False
+29,3055,"on the grass, featuring a <new1> cat",77.3907,25.5371,67.02,False
+19,3045,"on the grass, featuring a <new1> cat",77.0983,25.6,66.7986,False
+24,3050,"on the grass, featuring a <new1> cat",76.7746,24.8205,66.3838,False
+8,3034,"studio photo of a <new1> cat, centered, clean background",76.1074,18.9125,64.6684,False
+36,3062,"on the grass, featuring a <new1> cat",75.667,24.8644,65.5065,False
+31,3057,"on the grass, featuring a <new1> cat",73.9651,26.7565,64.5234,False
+37,3063,"on the grass, featuring a <new1> cat",73.0988,26.5699,63.793,False
+32,3058,"on the grass, featuring a <new1> cat",72.1715,24.7106,62.6793,False
+2,3028,"studio photo of a <new1> cat, centered, clean background",71.7457,18.6783,61.1322,False
+38,3064,"on the grass, featuring a <new1> cat",71.2378,26.3468,62.2596,False
+40,3066,"on the grass, featuring a <new1> cat",69.1045,25.5356,60.3907,False
+42,3068,"on the grass, featuring a <new1> cat",66.4665,24.5839,58.0899,False
+41,3067,"on the grass, featuring a <new1> cat",66.3364,25.1592,58.1009,False
+15,3041,"on the grass, featuring a <new1> cat",65.6694,26.1326,57.762,False
+43,3069,"on the grass, featuring a <new1> cat",64.9633,26.8621,57.343,False
+21,3047,"on the grass, featuring a <new1> cat",63.9829,25.315,56.2493,False
+34,3060,"on the grass, featuring a <new1> cat",63.7853,24.1317,55.8546,False
+44,3070,"on the grass, featuring a <new1> cat",62.9636,27.7291,55.9167,False
+20,3046,"on the grass, featuring a <new1> cat",62.0054,28.116,55.2276,False
+30,3056,"on the grass, featuring a <new1> cat",61.6756,26.0363,54.5478,False
+33,3059,"on the grass, featuring a <new1> cat",60.7994,26.4972,53.9389,False
+35,3061,"on the grass, featuring a <new1> cat",60.2939,23.6068,52.9564,False
+25,3051,"on the grass, featuring a <new1> cat",60.1211,23.9387,52.8846,False
+27,3053,"on the grass, featuring a <new1> cat",58.7842,24.6473,51.9569,False
+22,3048,"on the grass, featuring a <new1> cat",42.9996,26.739,39.7475,False

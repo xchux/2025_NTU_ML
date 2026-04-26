@@ -1,0 +1,76 @@
+candidate_idx,seed,prompt,dino_score,clip_t_score,weighted_score,selected
+19,8045,"studio photo of a <new1> plushie toy, centered, clean background",88.4643,20.9037,74.9522,True
+1,8027,"studio photo of a <new1> plushie toy, centered, clean background",87.0513,22.5689,74.1548,True
+14,8040,"studio photo of a <new1> plushie toy, centered, clean background",85.1799,22.0173,72.5474,True
+8,8034,"studio photo of a <new1> plushie toy, centered, clean background",83.5658,19.4525,70.7431,True
+5,8031,"studio photo of a <new1> plushie toy, centered, clean background",83.4734,20.6372,70.9061,True
+7,8033,"studio photo of a <new1> plushie toy, centered, clean background",81.384,20.0732,69.1218,True
+22,8048,"studio photo of a <new1> plushie toy, centered, clean background",80.9694,20.905,68.9565,True
+21,8047,"studio photo of a <new1> plushie toy, centered, clean background",80.874,21.7655,69.0523,True
+2,8028,"studio photo of a <new1> plushie toy, centered, clean background",80.6653,23.3922,69.2107,True
+20,8046,"studio photo of a <new1> plushie toy, centered, clean background",79.3183,21.0662,67.6679,True
+28,8054,"on a plate, featuring a <new1> plushie",79.2114,21.3667,67.6425,True
+10,8036,"studio photo of a <new1> plushie toy, centered, clean background",78.8693,21.4057,67.3766,True
+13,8039,"studio photo of a <new1> plushie toy, centered, clean background",78.7952,21.1596,67.268,True
+6,8032,"studio photo of a <new1> plushie toy, centered, clean background",78.5107,20.0953,66.8277,True
+73,8099,"on a plate, featuring a <new1> plushie",78.3055,19.5374,66.5519,True
+38,8064,"on a plate, featuring a <new1> plushie",78.2863,20.3085,66.6907,False
+4,8030,"studio photo of a <new1> plushie toy, centered, clean background",77.6391,20.9256,66.2964,False
+16,8042,"studio photo of a <new1> plushie toy, centered, clean background",76.5167,19.5018,65.1137,False
+67,8093,"on a plate, featuring a <new1> plushie",75.1576,19.5569,64.0374,False
+26,8052,"on a plate, featuring a <new1> plushie",74.1315,21.4784,63.6009,False
+18,8044,"studio photo of a <new1> plushie toy, centered, clean background",73.1958,20.1086,62.5784,False
+54,8080,"on a plate, featuring a <new1> plushie",72.8744,23.8529,63.0701,False
+12,8038,"studio photo of a <new1> plushie toy, centered, clean background",72.78,22.1551,62.655,False
+3,8029,"studio photo of a <new1> plushie toy, centered, clean background",71.6927,20.6635,61.4869,False
+70,8096,"on a plate, featuring a <new1> plushie",71.2826,21.0832,61.2427,False
+17,8043,"studio photo of a <new1> plushie toy, centered, clean background",70.0707,21.4864,60.3539,False
+53,8079,"on a plate, featuring a <new1> plushie",69.8643,20.742,60.0399,False
+36,8062,"on a plate, featuring a <new1> plushie",68.7853,24.5408,59.9364,False
+31,8057,"on a plate, featuring a <new1> plushie",67.2609,25.9996,59.0086,False
+24,8050,"studio photo of a <new1> plushie toy, centered, clean background",67.0889,21.3944,57.95,False
+47,8073,"on a plate, featuring a <new1> plushie",66.6018,20.6518,57.4118,False
+65,8091,"on a plate, featuring a <new1> plushie",66.301,26.4694,58.3347,False
+11,8037,"studio photo of a <new1> plushie toy, centered, clean background",66.2298,19.1803,56.8199,False
+49,8075,"on a plate, featuring a <new1> plushie",66.0527,24.265,57.6952,False
+42,8068,"on a plate, featuring a <new1> plushie",65.8634,24.1507,57.5209,False
+61,8087,"on a plate, featuring a <new1> plushie",65.4446,24.7432,57.3043,False
+23,8049,"studio photo of a <new1> plushie toy, centered, clean background",65.1121,19.9781,56.0853,False
+46,8072,"on a plate, featuring a <new1> plushie",64.8052,20.3069,55.9055,False
+72,8098,"on a plate, featuring a <new1> plushie",64.2924,26.9032,56.8146,False
+71,8097,"on a plate, featuring a <new1> plushie",64.1899,25.1453,56.381,False
+48,8074,"on a plate, featuring a <new1> plushie",64.1867,25.321,56.4136,False
+43,8069,"on a plate, featuring a <new1> plushie",64.0776,27.4248,56.747,False
+58,8084,"on a plate, featuring a <new1> plushie",64.0222,23.3716,55.8921,False
+55,8081,"on a plate, featuring a <new1> plushie",63.5755,25.8712,56.0346,False
+62,8088,"on a plate, featuring a <new1> plushie",63.5648,26.9176,56.2354,False
+9,8035,"studio photo of a <new1> plushie toy, centered, clean background",63.2684,20.8588,54.7865,False
+57,8083,"on a plate, featuring a <new1> plushie",62.699,22.5494,54.6691,False
+0,8026,"studio photo of a <new1> plushie toy, centered, clean background",62.3353,20.1186,53.892,False
+52,8078,"on a plate, featuring a <new1> plushie",61.6951,25.5184,54.4598,False
+25,8051,"studio photo of a <new1> plushie toy, centered, clean background",61.6928,19.8272,53.3197,False
+39,8065,"on a plate, featuring a <new1> plushie",61.4075,24.9784,54.1217,False
+30,8056,"on a plate, featuring a <new1> plushie",60.8206,25.0503,53.6665,False
+34,8060,"on a plate, featuring a <new1> plushie",60.363,18.2444,51.9393,False
+51,8077,"on a plate, featuring a <new1> plushie",59.8949,26.9024,53.2964,False
+37,8063,"on a plate, featuring a <new1> plushie",59.5779,25.4198,52.7463,False
+69,8095,"on a plate, featuring a <new1> plushie",59.1632,27.0369,52.7379,False
+64,8090,"on a plate, featuring a <new1> plushie",57.6509,26.7187,51.4644,False
+44,8070,"on a plate, featuring a <new1> plushie",57.4742,25.5355,51.0865,False
+40,8066,"on a plate, featuring a <new1> plushie",57.1767,27.3339,51.2082,False
+68,8094,"on a plate, featuring a <new1> plushie",57.1682,26.5754,51.0496,False
+60,8086,"on a plate, featuring a <new1> plushie",56.4124,23.621,49.8541,False
+74,8100,"on a plate, featuring a <new1> plushie",56.2267,21.3333,49.2481,False
+27,8053,"on a plate, featuring a <new1> plushie",56.0622,22.3364,49.317,False
+15,8041,"studio photo of a <new1> plushie toy, centered, clean background",56.0558,21.8675,49.2181,False
+33,8059,"on a plate, featuring a <new1> plushie",55.5666,26.3197,49.7172,False
+66,8092,"on a plate, featuring a <new1> plushie",55.2984,26.47,49.5327,False
+59,8085,"on a plate, featuring a <new1> plushie",54.7388,27.536,49.2983,False
+32,8058,"on a plate, featuring a <new1> plushie",54.3033,25.6695,48.5765,False
+45,8071,"on a plate, featuring a <new1> plushie",53.821,26.8006,48.417,False
+50,8076,"on a plate, featuring a <new1> plushie",53.7153,27.3431,48.4409,False
+41,8067,"on a plate, featuring a <new1> plushie",50.9823,24.9786,45.7815,False
+63,8089,"on a plate, featuring a <new1> plushie",50.8786,26.8964,46.0822,False
+29,8055,"on a plate, featuring a <new1> plushie",48.4528,25.1172,43.7857,False
+56,8082,"on a plate, featuring a <new1> plushie",47.7422,26.9182,43.5774,False
+35,8061,"on a plate, featuring a <new1> plushie",3.1561,22.6815,7.0612,False

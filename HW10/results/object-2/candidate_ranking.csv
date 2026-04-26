@@ -1,0 +1,61 @@
+candidate_idx,seed,prompt,dino_score,clip_t_score,weighted_score,selected
+56,4082,"on a cobblestone street, featuring a <new1> pink sunglasses",96.9858,18.9908,81.3868,True
+6,4032,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",96.9734,19.3132,81.4413,True
+25,4051,"on a cobblestone street, featuring a <new1> pink sunglasses",96.8214,19.4415,81.3454,True
+34,4060,"on a cobblestone street, featuring a <new1> pink sunglasses",96.6387,19.9613,81.3032,True
+33,4059,"on a cobblestone street, featuring a <new1> pink sunglasses",96.6376,18.9252,81.0952,True
+57,4083,"on a cobblestone street, featuring a <new1> pink sunglasses",96.3666,19.7617,81.0456,True
+44,4070,"on a cobblestone street, featuring a <new1> pink sunglasses",96.2956,19.303,80.8971,True
+14,4040,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",96.1437,18.4779,80.6106,True
+17,4043,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",96.0562,18.5648,80.5579,True
+29,4055,"on a cobblestone street, featuring a <new1> pink sunglasses",96.0454,19.1259,80.6615,True
+50,4076,"on a cobblestone street, featuring a <new1> pink sunglasses",95.9886,18.8326,80.5574,True
+37,4063,"on a cobblestone street, featuring a <new1> pink sunglasses",95.9674,18.9208,80.5581,True
+16,4042,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",95.9637,19.6026,80.6914,True
+55,4081,"on a cobblestone street, featuring a <new1> pink sunglasses",95.9281,19.0714,80.5568,True
+53,4079,"on a cobblestone street, featuring a <new1> pink sunglasses",95.9177,19.2778,80.5897,True
+13,4039,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",95.9049,18.8407,80.4921,False
+5,4031,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",95.8951,19.1043,80.5369,False
+58,4084,"on a cobblestone street, featuring a <new1> pink sunglasses",95.8046,19.5594,80.5556,False
+0,4026,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",95.5563,18.8194,80.2089,False
+7,4033,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",95.5455,19.358,80.308,False
+20,4046,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",95.4879,18.7017,80.1306,False
+38,4064,"on a cobblestone street, featuring a <new1> pink sunglasses",95.4458,19.288,80.2142,False
+42,4068,"on a cobblestone street, featuring a <new1> pink sunglasses",95.3469,18.7601,80.0295,False
+2,4028,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",95.2669,19.4216,80.0978,False
+32,4058,"on a cobblestone street, featuring a <new1> pink sunglasses",95.2661,19.7713,80.1672,False
+9,4035,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",95.1463,19.1541,79.9478,False
+24,4050,"on a cobblestone street, featuring a <new1> pink sunglasses",95.087,19.3176,79.9331,False
+26,4052,"on a cobblestone street, featuring a <new1> pink sunglasses",94.9105,19.1965,79.7677,False
+19,4045,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",94.6959,18.8132,79.5194,False
+43,4069,"on a cobblestone street, featuring a <new1> pink sunglasses",94.6888,19.5607,79.6632,False
+40,4066,"on a cobblestone street, featuring a <new1> pink sunglasses",94.5372,19.5347,79.5367,False
+51,4077,"on a cobblestone street, featuring a <new1> pink sunglasses",94.3873,19.5853,79.4269,False
+46,4072,"on a cobblestone street, featuring a <new1> pink sunglasses",94.3574,19.225,79.3309,False
+49,4075,"on a cobblestone street, featuring a <new1> pink sunglasses",94.3134,18.4236,79.1354,False
+18,4044,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",94.2758,19.8305,79.3868,False
+35,4061,"on a cobblestone street, featuring a <new1> pink sunglasses",94.219,17.9106,78.9573,False
+21,4047,"on a cobblestone street, featuring a <new1> pink sunglasses",93.9357,20.1715,79.1829,False
+10,4036,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",93.5291,18.8449,78.5922,False
+27,4053,"on a cobblestone street, featuring a <new1> pink sunglasses",93.447,19.6922,78.6961,False
+54,4080,"on a cobblestone street, featuring a <new1> pink sunglasses",93.4104,18.867,78.5017,False
+36,4062,"on a cobblestone street, featuring a <new1> pink sunglasses",93.3435,19.2444,78.5237,False
+59,4085,"on a cobblestone street, featuring a <new1> pink sunglasses",93.268,18.4632,78.3071,False
+28,4054,"on a cobblestone street, featuring a <new1> pink sunglasses",93.1369,19.1371,78.337,False
+1,4027,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",93.014,19.0348,78.2182,False
+15,4041,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",92.783,18.92,78.0104,False
+45,4071,"on a cobblestone street, featuring a <new1> pink sunglasses",92.7663,19.3943,78.0919,False
+8,4034,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",92.5507,18.7089,77.7824,False
+4,4030,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",92.0444,18.9061,77.4167,False
+22,4048,"on a cobblestone street, featuring a <new1> pink sunglasses",91.8638,19.1671,77.3245,False
+3,4029,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",90.7952,19.4774,76.5316,False
+12,4038,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",90.1798,18.8468,75.9132,False
+52,4078,"on a cobblestone street, featuring a <new1> pink sunglasses",90.1233,18.5541,75.8094,False
+31,4057,"on a cobblestone street, featuring a <new1> pink sunglasses",88.7211,19.2712,74.8311,False
+47,4073,"on a cobblestone street, featuring a <new1> pink sunglasses",88.6334,19.1969,74.7461,False
+39,4065,"on a cobblestone street, featuring a <new1> pink sunglasses",87.5959,19.1677,73.9103,False
+23,4049,"on a cobblestone street, featuring a <new1> pink sunglasses",87.1998,20.1977,73.7994,False
+41,4067,"on a cobblestone street, featuring a <new1> pink sunglasses",87.0442,19.2653,73.4884,False
+11,4037,"studio product photo of a <new1> pair of pink sunglasses, centered, clean background",86.5535,19.0877,73.0603,False
+48,4074,"on a cobblestone street, featuring a <new1> pink sunglasses",85.3584,18.9713,72.0809,False
+30,4056,"on a cobblestone street, featuring a <new1> pink sunglasses",84.4763,19.4607,71.4732,False
